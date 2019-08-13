@@ -74,6 +74,18 @@
 > 网站: <http://www.hslcommunication.cn>
 
 ### WPF
+1. [MaterialDesignInXAML / MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
+> Google's Material Design in XAML & WPF, for C# & VB.Net.
+> 网站: <http://materialdesigninxaml.net/>
+2. [MahApps / MahApps.Metro](https://github.com/MahApps/MahApps.Metro)
+> A framework that allows developers to cobble together a Metro or Modern UI for their own WPF applications with minimal effort.
+> 网站: <https://mahapps.com>
+3. [firstfloorsoftware / mui](https://github.com/firstfloorsoftware/mui)
+> Modern UI for WPF.
+4. [xceedsoftware / wpftoolkit](https://github.com/xceedsoftware/wpftoolkit)
+> All the controls missing in WPF. Over 1 million downloads.
+
+###
 1. [owner](link)
 > content
 2. [owner](link)

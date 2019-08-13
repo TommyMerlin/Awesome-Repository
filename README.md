@@ -2,15 +2,15 @@
 *A collection of useful repositories.*
 
 ## Index
-- [机器学习(Machine Learning)](#机器学习(Machine Learning))
+- [机器学习](#机器学习)
 - [Python](#Python)
 - [中国大学课程资源](#中国大学课程资源)
-- [C# & .NET](#C# & .NET)
+- [C#&.NET](#C#&.NET)
 - [WPF](#WPF)
-- [前端 & 博客](#前端 & 博客)
+- [前端&博客](#前端&博客)
 - [有趣项目](#有趣项目)
 
-###  机器学习(Machine Learning)
+###  机器学习
 1. [apachecn / AiLearning](https://github.com/apachecn/AiLearning)
 > AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP。
 > 网站: <http://ailearning.apachecn.org>

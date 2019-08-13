@@ -60,19 +60,18 @@
 5. [TheNetAdmin / zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
 > 浙江大学毕业论文 Latex 模板。
 
-### C#
-1. [owner](link)
-> content
-2. [owner](link)
-> content
-3. [owner](link)
-> content
-4. [owner](link)
-> content
-5. [owner](link)
-> content
-6. [owner](link)
-> content
+### C# & .NET
+1. [TheAlgorithms / C-Sharp](https://github.com/TheAlgorithms/C-Sharp)
+> All algorithms implemented in C#.
+2. [Live-Charts / Live-Charts](https://github.com/Live-Charts/Live-Charts)
+> Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
+3. [0xd4d / dnSpy](https://github.com/0xd4d/dnSpy)
+> .NET debugger and assembly editor.
+4. [shimat / opencvsharp](https://github.com/shimat/opencvsharp)
+> .NET Framework wrapper for OpenCV.
+5. [dathlin / HslCommunication](https://github.com/dathlin/HslCommunication)
+> 工业物联网基础架构框架，专注于基础技术通信和跨平台、跨语言通信功能，实现多种主流PLC数据读写
+> 网站: <http://www.hslcommunication.cn>
 
 ### WPF
 1. [owner](link)

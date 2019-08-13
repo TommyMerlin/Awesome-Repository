@@ -3,7 +3,8 @@
 
 ###  机器学习(Machine Learning)
 1. [apachecn / AiLearning](https://github.com/apachecn/AiLearning)
-> AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP。Website: <http://ailearning.apachecn.org>
+> AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP。
+> 网站: <http://ailearning.apachecn.org>
 2. [datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
 > 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 3. [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
@@ -20,7 +21,7 @@
 > 不间断更新机器学习，概率模型和深度学习的讲义(1000+页)和视频链接。
 9. [afshinea / stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 > VIP cheatsheets for Stanford's CS 229 Machine Learning. 
-> Website: <https://stanford.edu/~shervine/teaching/cs-229>
+> 网站: <https://stanford.edu/~shervine/teaching/cs-229>
 10. [fengdu78 / deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)
 > deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）。
 11. [fengdu78 / Coursera-ML-AndrewNg-Notes](link)
@@ -42,23 +43,47 @@
 > 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配
 7. [amueller / word_cloud](https://github.com/amueller/word_cloud)
 > A little word cloud generator in Python.
-> Website: <https://amueller.github.io/word_cloud>
+> 网站: <https://amueller.github.io/word_cloud>
 
 ### 中国大学课程资源
 1. [USTC-Resource / USTC-Course](https://github.com/USTC-Resource/USTC-Course)
 > 中国科学技术大学课程资源。
-> Website: <https://ustc-resource.github.io/USTC-Course>
+> 网站: <https://ustc-resource.github.io/USTC-Course>
 2. [PKUanonym / REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 > 清华大学计算机系课程攻略。
 3. [lib-pku / libpku](https://github.com/lib-pku/libpku)
 > 北京大学课程资料。
-> Website: <https://lib-pku.github.io/> 
+> 网站: <https://lib-pku.github.io/> 
 4. [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles)
 > 浙江大学课程攻略共享计划。
-> Website: <https://qsctech.github.io/zju-icicles/>
+> 网站: <https://qsctech.github.io/zju-icicles/>
 5. [TheNetAdmin / zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
 > 浙江大学毕业论文 Latex 模板。
-8. [owner](link)
+
+### C#
+1. [owner](link)
 > content
-8. [owner](link)
+2. [owner](link)
+> content
+3. [owner](link)
+> content
+4. [owner](link)
+> content
+5. [owner](link)
+> content
+6. [owner](link)
+> content
+
+### WPF
+1. [owner](link)
+> content
+2. [owner](link)
+> content
+3. [owner](link)
+> content
+4. [owner](link)
+> content
+5. [owner](link)
+> content
+6. [owner](link)
 > content

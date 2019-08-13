@@ -42,19 +42,22 @@
 > 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配
 7. [amueller / word_cloud](https://github.com/amueller/word_cloud)
 > A little word cloud generator in Python.
-> Website: https://amueller.github.io/word_cloud
+> Website: <https://amueller.github.io/word_cloud>
 
 ### 中国大学课程资源
-1. [owner](link)
-> content
-2. [owner](link)
-> content
-3. [owner](link)
-> content
-4. [owner](link)
-> content
-5. [owner](link)
-> content
+1. [USTC-Resource / USTC-Course](https://github.com/USTC-Resource/USTC-Course)
+> 中国科学技术大学课程资源。
+> Website: <https://ustc-resource.github.io/USTC-Course>
+2. [PKUanonym / REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+> 清华大学计算机系课程攻略。
+3. [lib-pku / libpku](https://github.com/lib-pku/libpku)
+> 北京大学课程资料。
+> Website: <https://lib-pku.github.io/> 
+4. [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles)
+> 浙江大学课程攻略共享计划。
+> Website: <https://qsctech.github.io/zju-icicles/>
+5. [TheNetAdmin / zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
+> 浙江大学毕业论文 Latex 模板。
 8. [owner](link)
 > content
 8. [owner](link)

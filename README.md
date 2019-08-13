@@ -5,9 +5,9 @@
 - [机器学习](#机器学习)
 - [Python](#Python)
 - [中国大学课程资源](#中国大学课程资源)
-- [C#&.NET](#C#&.NET)
+- [C# ☝ .NET](#C# ☝ .NET)
 - [WPF](#WPF)
-- [前端&博客](#前端&博客)
+- [前端 ☝ 博客](#前端  ☝ 博客)
 - [有趣项目](#有趣项目)
 
 ###  机器学习
@@ -69,7 +69,7 @@
 5. [TheNetAdmin / zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
 > 浙江大学毕业论文 Latex 模板。
 
-### C# & .NET
+### C# ☝ .NET
 1. [TheAlgorithms / C-Sharp](https://github.com/TheAlgorithms/C-Sharp)
 > All algorithms implemented in C#.
 2. [Live-Charts / Live-Charts](https://github.com/Live-Charts/Live-Charts)
@@ -100,7 +100,7 @@
 5. [microsoft / WPF-Samples](https://github.com/microsoft/WPF-Samples)
 > Repository for WPF related samples.
 
-### 前端 & 博客
+### 前端 ☝ 博客
 1. [qiu-deqing / FE-learning](https://github.com/qiu-deqing/FE-learning)
 > 前端入门方法。
 2. [theme-next / hexo-theme-next](https://github.com/theme-next/hexo-theme-next)

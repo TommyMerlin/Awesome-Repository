@@ -72,6 +72,10 @@
 5. [dathlin / HslCommunication](https://github.com/dathlin/HslCommunication)
 > 工业物联网基础架构框架，专注于基础技术通信和跨平台、跨语言通信功能，实现多种主流PLC数据读写
 > 网站: <http://www.hslcommunication.cn>
+6. [quozd / awesome-dotnet](https://github.com/quozd/awesome-dotnet)
+> A collection of awesome .NET libraries, tools, frameworks and software.
+7. [microsoft / dotnet](https://github.com/microsoft/dotnet)
+> This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 
 ### WPF
 1. [MaterialDesignInXAML / MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
@@ -84,17 +88,25 @@
 > Modern UI for WPF.
 4. [xceedsoftware / wpftoolkit](https://github.com/xceedsoftware/wpftoolkit)
 > All the controls missing in WPF. Over 1 million downloads.
+5. [microsoft / WPF-Samples](https://github.com/microsoft/WPF-Samples)
+> Repository for WPF related samples.
 
-###
-1. [owner](link)
+### 前端 & 博客
+1. [qiu-deqing / FE-learning](https://github.com/qiu-deqing/FE-learning)
+> 前端入门方法。
+2. [theme-next / hexo-theme-next](https://github.com/theme-next/hexo-theme-next)
+> Elegant and powerful theme for Hexo.
+3. [gitalk / gitalk](https://github.com/gitalk/gitalk)
+> Gitalk is a modern comment component based on Github Issue and Preact.
+4. [helloqingfeng / Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+> GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）。
+5. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+> Roadmap to becoming a web developer in 2019.
+6. [owner](link)
 > content
-2. [owner](link)
+6. [owner](link)
 > content
-3. [owner](link)
-> content
-4. [owner](link)
-> content
-5. [owner](link)
+6. [owner](link)
 > content
 6. [owner](link)
 > content

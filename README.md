@@ -95,18 +95,36 @@
 1. [qiu-deqing / FE-learning](https://github.com/qiu-deqing/FE-learning)
 > 前端入门方法。
 2. [theme-next / hexo-theme-next](https://github.com/theme-next/hexo-theme-next)
-> Elegant and powerful theme for Hexo.
+> Hexo主题。Elegant and powerful theme for Hexo.
 3. [gitalk / gitalk](https://github.com/gitalk/gitalk)
 > Gitalk is a modern comment component based on Github Issue and Preact.
 4. [helloqingfeng / Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 > GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）。
 5. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 > Roadmap to becoming a web developer in 2019.
-6. [owner](link)
+
+### 有趣项目 
+1. [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11)
+> 阿波罗11号。Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+2. [hakimel / reveal.js](https://github.com/hakimel/reveal.js)
+> The HTML Presentation Framework.
+3. [VincentSit / ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex)
+>  一组匹配中国大陆手机号码的正则表达式。/ Regular expressions that match the mobile phone number in mainland China.
+4. [Jannchie / Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
+> 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表。
+5. [pomber / git-history](https://github.com/pomber/git-history)
+> Quickly browse the history of a file from any git repository.
+6. [leon-ai / leon](https://github.com/leon-ai/leon)
+> Leon is your open-source personal assistant.
+7. [lennylxx / ipv6-hosts](https://github.com/lennylxx/ipv6-hosts)
+> Fork of https://code.google.com/archive/p/ipv6-hosts/, focusing on automation.
+7. [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+> 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+7. [JustArchiNET / ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
+> Steam挂卡。C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
+7. [owner](link)
 > content
-6. [owner](link)
+7. [owner](link)
 > content
-6. [owner](link)
-> content
-6. [owner](link)
+7. [owner](link)
 > content

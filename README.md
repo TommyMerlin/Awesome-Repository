@@ -5,9 +5,9 @@
 - [机器学习](#机器学习)
 - [Python](#Python)
 - [中国大学课程资源](#中国大学课程资源)
-- [CSharp DOTNET](#csharp)
+- [CSharp DOTNET](#c-dotnet)
 - [WPF](#WPF)
-- [前端/博客](#front-end)
+- [前端/博客](#前端博客)
 - [有趣项目](#有趣项目)
 
 ###  机器学习
@@ -104,8 +104,6 @@
 5. [microsoft / WPF-Samples](https://github.com/microsoft/WPF-Samples)
 > Repository for WPF related samples.
 
-<article id="front-end">
-
 ### 前端/博客
 1. [qiu-deqing / FE-learning](https://github.com/qiu-deqing/FE-learning)
 > 前端入门方法。
@@ -118,7 +116,6 @@
 5. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 > Roadmap to becoming a web developer in 2019.
 
-</article>
 
 ### 有趣项目 
 1. [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11)

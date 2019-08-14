@@ -10,6 +10,8 @@
 - [前端/博客](#前端博客)
 - [有趣项目](#有趣项目)
 
+---
+
 ###  机器学习
 1. [apachecn / AiLearning](https://github.com/apachecn/AiLearning)
 > AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP。
@@ -36,6 +38,8 @@
 11. [fengdu78 / Coursera-ML-AndrewNg-Notes](link)
 > 吴恩达老师的机器学习课程个人笔记。
 
+---
+
 ### Python
 1. [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 > Python - 100天从新手到大师。
@@ -54,6 +58,8 @@
 > A little word cloud generator in Python.
 > 网站: <https://amueller.github.io/word_cloud>
 
+---
+
 ### 中国大学课程资源
 1. [USTC-Resource / USTC-Course](https://github.com/USTC-Resource/USTC-Course)
 > 中国科学技术大学课程资源。
@@ -69,7 +75,7 @@
 5. [TheNetAdmin / zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
 > 浙江大学毕业论文 Latex 模板。
 
-<article id="csharp">
+---
 
 ### C# DOTNET
 1. [TheAlgorithms / C-Sharp](https://github.com/TheAlgorithms/C-Sharp)
@@ -88,7 +94,7 @@
 7. [microsoft / dotnet](https://github.com/microsoft/dotnet)
 > This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 
-</article>
+---
 
 ### WPF
 1. [MaterialDesignInXAML / MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
@@ -104,6 +110,8 @@
 5. [microsoft / WPF-Samples](https://github.com/microsoft/WPF-Samples)
 > Repository for WPF related samples.
 
+---
+
 ### 前端/博客
 1. [qiu-deqing / FE-learning](https://github.com/qiu-deqing/FE-learning)
 > 前端入门方法。
@@ -116,6 +124,7 @@
 5. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 > Roadmap to becoming a web developer in 2019.
 
+---
 
 ### 有趣项目 
 1. [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11)

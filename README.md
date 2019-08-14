@@ -1,7 +1,7 @@
 # Repository-Collection
 *A collection of useful repositories.*
 
-## Index
+## 目录
 - [机器学习](#机器学习)
 - [Python](#Python)
 - [中国大学课程资源](#中国大学课程资源)

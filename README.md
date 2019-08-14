@@ -5,9 +5,9 @@
 - [机器学习](#机器学习)
 - [Python](#Python)
 - [中国大学课程资源](#中国大学课程资源)
-- [CSharp DOTNET](#CSharp)
+- [CSharp DOTNET](#csharp)
 - [WPF](#WPF)
-- [前端/博客](#前端/博客)
+- [前端/博客](#front-end)
 - [有趣项目](#有趣项目)
 
 ###  机器学习
@@ -69,7 +69,7 @@
 5. [TheNetAdmin / zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
 > 浙江大学毕业论文 Latex 模板。
 
-<article id="CSharp">
+<article id="csharp">
 
 ### C# DOTNET
 1. [TheAlgorithms / C-Sharp](https://github.com/TheAlgorithms/C-Sharp)
@@ -104,7 +104,7 @@
 5. [microsoft / WPF-Samples](https://github.com/microsoft/WPF-Samples)
 > Repository for WPF related samples.
 
-<article id="前端/博客">
+<article id="front-end">
 
 ### 前端/博客
 1. [qiu-deqing / FE-learning](https://github.com/qiu-deqing/FE-learning)

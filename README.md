@@ -156,8 +156,32 @@
 14. [Aniket965 / Hello-world](https://github.com/Aniket965/Hello-world)
 > Add any Program in any language you like or add a hello world Program ❣️ if you like give us ⭐️.
 
+---
+
 ### 资源汇总
-7. [owner](link)
-> content
-7. [owner](link)
-> content
+1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
+> Awesome lists about all kinds of interesting topics.
+2. [dipakkr / A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+> Curated list of resources for college students.
+3. [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+> The best design tools for everything.
+4. [Solido / awesome-flutter](https://github.com/Solido/awesome-flutter)
+> An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+5. [TonnyL / Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
+> :octocat: A collection of APIs.
+6. [public-apis / public-apis](https://github.com/public-apis/public-apis)
+> A collective list of free APIs for use in software and web development.
+
+---
+
+### CS相关
+1. [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes)
+> 📚 Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计。
+2. [prakhar1989 / awesome-courses](https://github.com/prakhar1989/awesome-courses)
+> 📚 List of awesome university courses for learning Computer Science!
+3. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+> 📚 Freely available programming books.
+4. [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide)
+> 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+5. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
+> Protocol Buffers - Google's data interchange format.

@@ -5,7 +5,7 @@
 - [机器学习](#机器学习)
 - [Python](#Python)
 - [中国大学课程资源](#中国大学课程资源)
-- [CSharp DOTNET](#c-dotnet)
+- [C# DOTNET](#c-dotnet)
 - [WPF](#WPF)
 - [前端/博客](#前端博客)
 - [有趣项目](#有趣项目)

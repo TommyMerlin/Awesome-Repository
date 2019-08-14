@@ -5,9 +5,9 @@
 - [机器学习](#机器学习)
 - [Python](#Python)
 - [中国大学课程资源](#中国大学课程资源)
-- [C# ☝ .NET](#C#-.NET)
+- [C# DOTNET](#C# .NET)
 - [WPF](#WPF)
-- [前端 ☝ 博客](#前端-博客)
+- [前端/博客](#前端/博客)
 - [有趣项目](#有趣项目)
 
 ###  机器学习
@@ -69,8 +69,7 @@
 5. [TheNetAdmin / zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
 > 浙江大学毕业论文 Latex 模板。
 
-<article id="C#-.NET">
-### C# ☝ .NET
+### C# DOTNET
 1. [TheAlgorithms / C-Sharp](https://github.com/TheAlgorithms/C-Sharp)
 > All algorithms implemented in C#.
 2. [Live-Charts / Live-Charts](https://github.com/Live-Charts/Live-Charts)
@@ -86,7 +85,6 @@
 > A collection of awesome .NET libraries, tools, frameworks and software.
 7. [microsoft / dotnet](https://github.com/microsoft/dotnet)
 > This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
-</article>
 
 ### WPF
 1. [MaterialDesignInXAML / MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
@@ -102,8 +100,7 @@
 5. [microsoft / WPF-Samples](https://github.com/microsoft/WPF-Samples)
 > Repository for WPF related samples.
 
-<article id="前端-博客">
-### 前端 ☝ 博客
+### 前端/博客
 1. [qiu-deqing / FE-learning](https://github.com/qiu-deqing/FE-learning)
 > 前端入门方法。
 2. [theme-next / hexo-theme-next](https://github.com/theme-next/hexo-theme-next)
@@ -114,7 +111,6 @@
 > GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）。
 5. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 > Roadmap to becoming a web developer in 2019.
-</article>
 
 ### 有趣项目 
 1. [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11)

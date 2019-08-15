@@ -125,6 +125,10 @@
 > GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）。
 5. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 > Roadmap to becoming a web developer in 2019.
+6. [ProfessionalCSharp / ProfessionalCSharp6](https://github.com/ProfessionalCSharp/ProfessionalCSharp6)
+> Code samples for the book Professional C# 6 and .NET Core 1.0, Wrox Press.
+7. [yuzhengyang / Fork](https://github.com/yuzhengyang/Fork)
+> C#工具包，C#工具类，常用方法，系统API，文件处理、加密解密、Winform美化（C# Tools）。
 
 ---
 

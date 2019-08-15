@@ -37,8 +37,13 @@
 > 网站: <https://stanford.edu/~shervine/teaching/cs-229>
 10. [fengdu78 / deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)
 > deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）。
-11. [fengdu78 / Coursera-ML-AndrewNg-Notes](link)
+11. [fengdu78 / Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 > 吴恩达老师的机器学习课程个人笔记。
+12. [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow)
+> An Open Source Machine Learning Framework for Everyone.
+13. [d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh)
+> 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论（STAT 157）”教材。
+14. [afshinea / stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
 ---
 
@@ -191,3 +196,9 @@
 > 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 5. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
 > Protocol Buffers - Google's data interchange format.
+
+---
+
+Example:
+1. [owner](link)
+> content

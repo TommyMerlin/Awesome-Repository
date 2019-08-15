@@ -194,6 +194,10 @@
 > :octocat: A collection of APIs.
 6. [public-apis / public-apis](https://github.com/public-apis/public-apis)
 > A collective list of free APIs for use in software and web development.
+7. [matiassingers / awesome-readme](https://github.com/matiassingers/awesome-readme)
+> A curated list of awesome READMEs.
+8. [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+> 图标、字体集合。🔡 Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack.
 
 ---
 

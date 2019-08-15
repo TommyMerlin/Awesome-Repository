@@ -51,7 +51,7 @@
 1. [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 > Python - 100天从新手到大师。
 2. [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
-> All Algorithms implemented in Python.
+> 算法的Python实现。All Algorithms implemented in Python.
 3. [vinta / awesome-python](https://github.com/vinta/awesome-python)
 > A curated list of awesome Python frameworks, libraries, software and resources.
 > Website: <https://awesome-python.com/>
@@ -62,8 +62,18 @@
 6. [fighting41love / funNLP](https://github.com/fighting41love/funNLP)
 > 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配
 7. [amueller / word_cloud](https://github.com/amueller/word_cloud)
-> A little word cloud generator in Python.
+> 词云生成。A little word cloud generator in Python.
 > 网站: <https://amueller.github.io/word_cloud>
+8. [jakevdp / PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+> Python数据处理。Python Data Science Handbook: full text in Jupyter Notebooks.
+9. [xchaoinfo / fuck-login](https://github.com/xchaoinfo/fuck-login)
+> 模拟登录一些知名的网站，为了方便爬取需要登录的网站。
+10. [fluentpython / example-code](https://github.com/fluentpython/example-code)
+> 《流畅的Python》书中代码。Example code for the book Fluent Python.
+11. [leisurelicht / wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn)
+> wtfpython的中文翻译。
+12. [qxf2 / wtfiswronghere](https://github.com/qxf2/wtfiswronghere)
+> 新手常犯的Python错误。A collection of simple errors that beginners are likely to hit when they start writing Python.
 
 ---
 

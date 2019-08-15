@@ -175,15 +175,19 @@
 
 ### CS相关
 1. [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes)
-> 📚 Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计。
+> 📚 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计。
 2. [prakhar1989 / awesome-courses](https://github.com/prakhar1989/awesome-courses)
-> 📚 List of awesome university courses for learning Computer Science!
+> 📚 大学CS课程。List of awesome university courses for learning Computer Science!
 3. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-> 📚 Freely available programming books.
+> 📚 编程相关书籍。Freely available programming books.
 4. [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide)
 > 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 5. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
 > Protocol Buffers - Google's data interchange format.
+6. [geeeeeeeeek / git-recipes](https://github.com/geeeeeeeeek/git-recipes)
+> 🥡 高质量的Git中文教程。Git recipes in Chinese by Zhongyi Tong.
+7. [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex)
+> 学习正则表达式。Learn regex the easy way.
 
 ---
 

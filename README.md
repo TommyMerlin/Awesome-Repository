@@ -8,9 +8,9 @@
 - [C# DOTNET](#c-dotnet)
 - [WPF](#WPF)
 - [前端/博客](#前端博客)
-- [有趣项目](#有趣项目)
 - [资源汇总](#资源汇总)
 - [CS相关](#cs相关)
+- [有趣项目](#有趣项目)
 
 ---
 
@@ -149,38 +149,6 @@
 
 ---
 
-### 有趣项目 
-1. [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11)
-> 阿波罗11号。Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-2. [hakimel / reveal.js](https://github.com/hakimel/reveal.js)
-> The HTML Presentation Framework.
-3. [VincentSit / ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex)
->  一组匹配中国大陆手机号码的正则表达式。/ Regular expressions that match the mobile phone number in mainland China.
-4. [Jannchie / Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
-> 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表。
-5. [pomber / git-history](https://github.com/pomber/git-history)
-> Quickly browse the history of a file from any git repository.
-6. [leon-ai / leon](https://github.com/leon-ai/leon)
-> Leon is your open-source personal assistant.
-7. [lennylxx / ipv6-hosts](https://github.com/lennylxx/ipv6-hosts)
-> Fork of https://code.google.com/archive/p/ipv6-hosts/, focusing on automation.
-8. [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-> 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-9. [JustArchiNET / ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
-> Steam挂卡。C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
-10. [soimort / you-get](https://github.com/soimort/you-get)
-> Dumb downloader that scrapes the web.
-11. [houshanren / hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)
-> 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。
-12. [komeiji-satori / Dress](https://github.com/komeiji-satori/Dress)
-> 好耶 是女装。
-13. [XX-net / XX-Net](https://github.com/XX-net/XX-Net)
-> A web proxy tool.
-14. [Aniket965 / Hello-world](https://github.com/Aniket965/Hello-world)
-> Add any Program in any language you like or add a hello world Program ❣️ if you like give us ⭐️.
-
----
-
 ### 资源汇总
 1. [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
 > Awesome lists about all kinds of interesting topics.
@@ -212,6 +180,42 @@
 > 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 5. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
 > Protocol Buffers - Google's data interchange format.
+
+---
+
+### 有趣项目 
+1. [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11)
+> 阿波罗11号。Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+2. [hakimel / reveal.js](https://github.com/hakimel/reveal.js)
+> The HTML Presentation Framework.
+3. [VincentSit / ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex)
+>  一组匹配中国大陆手机号码的正则表达式。/ Regular expressions that match the mobile phone number in mainland China.
+4. [Jannchie / Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
+> 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表。
+5. [pomber / git-history](https://github.com/pomber/git-history)
+> Quickly browse the history of a file from any git repository.
+6. [leon-ai / leon](https://github.com/leon-ai/leon)
+> Leon is your open-source personal assistant.
+7. [lennylxx / ipv6-hosts](https://github.com/lennylxx/ipv6-hosts)
+> Fork of https://code.google.com/archive/p/ipv6-hosts/, focusing on automation.
+8. [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+> 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+9. [JustArchiNET / ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
+> Steam挂卡。C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
+10. [soimort / you-get](https://github.com/soimort/you-get)
+> Dumb downloader that scrapes the web.
+11. [houshanren / hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)
+> 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。
+12. [komeiji-satori / Dress](https://github.com/komeiji-satori/Dress)
+> 好耶 是女装。
+13. [XX-net / XX-Net](https://github.com/XX-net/XX-Net)
+> A web proxy tool.
+14. [Aniket965 / Hello-world](https://github.com/Aniket965/Hello-world)
+> Add any Program in any language you like or add a hello world Program ❣️ if you like give us ⭐️.
+15. [rwv / chinese-dos-games](https://github.com/rwv/chinese-dos-games)
+> 🎮 Chinese DOS games in browser.
+16. [gelstudios / gitfiti](https://github.com/gelstudios/gitfiti)
+> Abusing github commit history for the lulz.
 
 ---
 

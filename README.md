@@ -96,13 +96,13 @@
 
 ### C# DOTNET
 1. [TheAlgorithms / C-Sharp](https://github.com/TheAlgorithms/C-Sharp)
-> All algorithms implemented in C#.
+> 算法的C#实现。All algorithms implemented in C#.
 2. [Live-Charts / Live-Charts](https://github.com/Live-Charts/Live-Charts)
-> Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
+> .NET下简单、灵活、可交互的图表。Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 3. [0xd4d / dnSpy](https://github.com/0xd4d/dnSpy)
-> .NET debugger and assembly editor.
+> .NET调试和编译器。.NET debugger and assembly editor.
 4. [shimat / opencvsharp](https://github.com/shimat/opencvsharp)
-> .NET Framework wrapper for OpenCV.
+> .NET框架下的OpenCV。.NET Framework wrapper for OpenCV.
 5. [dathlin / HslCommunication](https://github.com/dathlin/HslCommunication)
 > 工业物联网基础架构框架，专注于基础技术通信和跨平台、跨语言通信功能，实现多种主流PLC数据读写
 > 网站: <http://www.hslcommunication.cn>

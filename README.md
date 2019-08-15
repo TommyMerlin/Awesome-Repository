@@ -46,6 +46,7 @@
 13. [d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh)
 > 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论（STAT 157）”教材。
 > 视频：https://space.bilibili.com/209599371/channel/detail?cid=23541
+> PDF: https://github.com/TommyMerlin/Repository-Collection/tree/master/files
 14. [afshinea / stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 > Cheatsheets for Stanford's CS 229 Machine Learning.
 

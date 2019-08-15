@@ -116,6 +116,8 @@
 > All the controls missing in WPF. Over 1 million downloads.
 5. [microsoft / WPF-Samples](https://github.com/microsoft/WPF-Samples)
 > Repository for WPF related samples.
+6. [Panuon / PanuonUI](https://github.com/Panuon/PanuonUI)
+> 一个好看精致、开源无限制使用的WPF控件库。
 
 ---
 

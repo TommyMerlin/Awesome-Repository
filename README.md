@@ -216,6 +216,9 @@
 > 🎮 Chinese DOS games in browser.
 16. [gelstudios / gitfiti](https://github.com/gelstudios/gitfiti)
 > Abusing github commit history for the lulz.
+17. [ornicar / lila](https://github.com/ornicar/lila)
+> 国际象棋。♞ lichess.org: the forever free, adless and open source chess server. ♞
+
 
 ---
 

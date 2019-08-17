@@ -139,7 +139,9 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > Repository for WPF related samples.
 6. [Panuon / PanuonUI](https://github.com/Panuon/PanuonUI)
 > 一个好看精致、开源无限制使用的WPF控件库。
-7. [kwonganding / wpf.controls](https://github.com/kwonganding/wpf.controls)
+7. [Panuon / PanuonUI.Silver](https://github.com/Panuon/PanuonUI.Silver)
+> Panuon.UI optimized version. A beautiful wpf ui library using templates & attached properties.
+8. [kwonganding / wpf.controls](https://github.com/kwonganding/wpf.controls)
 > 在学习中和使用WPF中，学习、借鉴了很多网友的文章和开源的项目的知识。发现提供实际项目开发需要的基础控件、样式的文章大都比较散，不成系列。因此基于现在项目中使用开发了一个wpf基础UI库。
 
 ---

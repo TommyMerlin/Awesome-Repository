@@ -80,6 +80,8 @@
 12. [qxf2 / wtfiswronghere](https://github.com/qxf2/wtfiswronghere)
 > 新手常犯的Python错误。  
 A collection of simple errors that beginners are likely to hit when they start writing Python.
+13. [rougier / matplotlib-cheatsheet](https://github.com/rougier/matplotlib-cheatsheet)
+> Matplotlib 3.1 cheat sheet. From an upcoming book on matplotlib.
 
 ---
 

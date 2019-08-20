@@ -181,6 +181,8 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > A curated list of awesome READMEs.
 8. [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 > 图标、字体集合。🔡 Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack.
+9. [ruanyf / free-books](https://github.com/ruanyf/free-books)
+> 互联网上的免费书籍。
 
 ---
 

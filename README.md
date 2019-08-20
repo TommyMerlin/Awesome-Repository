@@ -181,8 +181,6 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > A curated list of awesome READMEs.
 8. [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 > 图标、字体集合。🔡 Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack.
-9. [ruanyf / free-books](https://github.com/ruanyf/free-books)
-> 互联网上的免费书籍。
 
 ---
 
@@ -193,13 +191,15 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > 📚 大学CS课程。List of awesome university courses for learning Computer Science!
 3. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 > 📚 编程相关书籍。Freely available programming books.
-4. [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide)
+4. [ruanyf / free-books](https://github.com/ruanyf/free-books)
+> 互联网上的免费书籍。
+5. [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide)
 > 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-5. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
+6. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
 > Protocol Buffers - Google's data interchange format.
-6. [geeeeeeeeek / git-recipes](https://github.com/geeeeeeeeek/git-recipes)
+7. [geeeeeeeeek / git-recipes](https://github.com/geeeeeeeeek/git-recipes)
 > 🥡 高质量的Git中文教程。Git recipes in Chinese by Zhongyi Tong.
-7. [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex)
+8. [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex)
 > 学习正则表达式。Learn regex the easy way.
 
 ---

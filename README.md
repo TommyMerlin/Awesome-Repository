@@ -199,7 +199,9 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > Protocol Buffers - Google's data interchange format.
 7. [geeeeeeeeek / git-recipes](https://github.com/geeeeeeeeek/git-recipes)
 > 🥡 高质量的Git中文教程。Git recipes in Chinese by Zhongyi Tong.
-8. [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex)
+8. [github / gitignore](https://github.com/github/gitignore)
+> A collection of useful .gitignore templates.
+9. [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex)
 > 学习正则表达式。Learn regex the easy way.
 
 ---

@@ -49,6 +49,8 @@
 > PDF: https://github.com/TommyMerlin/Repository-Collection/tree/master/files
 14. [afshinea / stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 > Cheatsheets for Stanford's CS 229 Machine Learning.
+14. [microsoft / ai-edu](https://github.com/microsoft/ai-edu)
+> AI education materials for Chinese students, teachers and IT professionals.
 
 ---
 
@@ -121,6 +123,8 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 8. [yuzhengyang / Fork](https://github.com/yuzhengyang/Fork)
 > C#工具包，C#工具类，常用方法，系统API，文件处理、加密解密、Winform美化（C# Tools）。
+9. [Jimmey-Jiang / Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility)
+> 比较全面的c#帮助类，各种功能性代码。
 
 ---
 
@@ -161,6 +165,11 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > Code samples for the book Professional C# 6 and .NET Core 1.0, Wrox Press.
 7. [b3log / pipe](lihttps://github.com/b3log/pipenk)
 > 🎷 一款小而美的博客平台，专为程序员设计。
+8. [pandao / editor.md](https://github.com/pandao/editor.md)
+> 开源可嵌入的在线Markdown编辑器（模块）。The open source embeddable online markdown editor (component).   
+> 网站: <http://editor.md.ipandao.com/>
+9. [qianguyihao / Web](https://github.com/qianguyihao/Web)
+> 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。
 
 ---
 
@@ -181,6 +190,8 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > A curated list of awesome READMEs.
 8. [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 > 图标、字体集合。🔡 Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack.
+9. [justjavac / awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+> 微信小程序开发资源汇总 💯
 
 ---
 
@@ -191,18 +202,22 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > 📚 大学CS课程。List of awesome university courses for learning Computer Science!
 3. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 > 📚 编程相关书籍。Freely available programming books.
-4. [ruanyf / free-books](https://github.com/ruanyf/free-books)
+4. [justjavac / free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+> 📚 免费的计算机编程类中文书籍
+5. [ruanyf / free-books](https://github.com/ruanyf/free-books)
 > 互联网上的免费书籍。
-5. [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide)
+6. [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide)
 > 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-6. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
+7. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
 > Protocol Buffers - Google's data interchange format.
-7. [geeeeeeeeek / git-recipes](https://github.com/geeeeeeeeek/git-recipes)
+8. [geeeeeeeeek / git-recipes](https://github.com/geeeeeeeeek/git-recipes)
 > 🥡 高质量的Git中文教程。Git recipes in Chinese by Zhongyi Tong.
-8. [github / gitignore](https://github.com/github/gitignore)
+9. [github / gitignore](https://github.com/github/gitignore)
 > A collection of useful .gitignore templates.
-9. [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex)
+10. [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex)
 > 学习正则表达式。Learn regex the easy way.
+11. [Lellansin / Cipher-examples](https://github.com/Lellansin/Cipher-examples)
+> 常见加密算法。
 
 ---
 
@@ -253,12 +268,15 @@ Regular expressions that match the mobile phone number in mainland China.
 18. [cmiscm / leonsans](https://github.com/cmiscm/leonsans)
 > Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.  
 > 网站: <https://leon-kim.com/>
-19. [owner](link)
-> content
+19. [menzi11 / BullshitGenerator](https://github.com/menzi11/BullshitGenerator)
+> 狗屁不通文章生成器。Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.  
+> 网站: <https://suulnnka.github.io/BullshitGenerator/index.html>
+20. [3b1b / manim](https://github.com/3b1b/manim)
+> 数学动画引擎。Animation engine for explanatory math videos.
 
 
 ---
 
-Example:
+### Example:
 1. [owner](link)
 > content

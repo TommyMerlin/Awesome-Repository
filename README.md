@@ -276,7 +276,9 @@ Regular expressions that match the mobile phone number in mainland China.
 > 网站: <https://suulnnka.github.io/BullshitGenerator/index.html>
 20. [3b1b / manim](https://github.com/3b1b/manim)
 > 数学动画引擎。Animation engine for explanatory math videos.
-
+21. [carloscuesta / gitmoji](https://github.com/carloscuesta/gitmoji)
+> An emoji guide for your commit messages. 😜  
+> 网站: <https://gitmoji.carloscuesta.me/>
 
 ---
 

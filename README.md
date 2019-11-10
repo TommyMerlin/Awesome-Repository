@@ -218,6 +218,9 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > 学习正则表达式。Learn regex the easy way.
 11. [Lellansin / Cipher-examples](https://github.com/Lellansin/Cipher-examples)
 > 常见加密算法。
+12. [badges / shields](https://github.com/badges/shields)
+> Concise, consistent, and legible badges in SVG and raster format.  
+> 网站: <https://shields.io/>
 
 ---
 

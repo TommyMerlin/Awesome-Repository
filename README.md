@@ -163,7 +163,7 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > Roadmap to becoming a web developer in 2019.
 6. [ProfessionalCSharp / ProfessionalCSharp6](https://github.com/ProfessionalCSharp/ProfessionalCSharp6)
 > Code samples for the book Professional C# 6 and .NET Core 1.0, Wrox Press.
-7. [b3log / pipe](lihttps://github.com/b3log/pipenk)
+7. [b3log / pipe](https://github.com/b3log/pipe)
 > 🎷 一款小而美的博客平台，专为程序员设计。
 8. [pandao / editor.md](https://github.com/pandao/editor.md)
 > 开源可嵌入的在线Markdown编辑器（模块）。The open source embeddable online markdown editor (component).   

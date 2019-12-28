@@ -243,7 +243,8 @@ Regular expressions that match the mobile phone number in mainland China.
 4. [Jannchie / Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
 > 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表。
 5. [pomber / git-history](https://github.com/pomber/git-history)
-> Quickly browse the history of a file from any git repository.
+> 可视化浏览commit历史。Quickly browse the history of a file from any git repository.  
+> 网站: <https://githistory.xyz/>
 6. [leon-ai / leon](https://github.com/leon-ai/leon)
 > Leon is your open-source personal assistant.
 7. [lennylxx / ipv6-hosts](https://github.com/lennylxx/ipv6-hosts)
@@ -265,11 +266,11 @@ Regular expressions that match the mobile phone number in mainland China.
 15. [rwv / chinese-dos-games](https://github.com/rwv/chinese-dos-games)
 > 🎮 Chinese DOS games in browser.
 16. [gelstudios / gitfiti](https://github.com/gelstudios/gitfiti)
-> Abusing github commit history for the lulz.
+> 随意更改commit历史。Abusing github commit history for the lulz.
 17. [ornicar / lila](https://github.com/ornicar/lila)
 > 国际象棋。♞ lichess.org: the forever free, adless and open source chess server. ♞
 18. [cmiscm / leonsans](https://github.com/cmiscm/leonsans)
-> Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.  
+> 代码生成的字体。Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.  
 > 网站: <https://leon-kim.com/>
 19. [menzi11 / BullshitGenerator](https://github.com/menzi11/BullshitGenerator)
 > 狗屁不通文章生成器。Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.  
@@ -277,9 +278,8 @@ Regular expressions that match the mobile phone number in mainland China.
 20. [3b1b / manim](https://github.com/3b1b/manim)
 > 数学动画引擎。Animation engine for explanatory math videos.
 21. [carloscuesta / gitmoji](https://github.com/carloscuesta/gitmoji)
-> An emoji guide for your commit messages. 😜  
+> 在commit信息中添加emoji。An emoji guide for your commit messages. 😜  
 > 网站: <https://gitmoji.carloscuesta.me/>
-
 ---
 
 ### Example:

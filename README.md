@@ -1,5 +1,5 @@
 # Repository-Collection
-![](https://raw.githubusercontent.com/TommyMerlin/Image-Hosting/master/pilot.jpg)
+![](https://gitee.com/TommyMerlin/image-host-gitee/raw/master/pilot.jpg)
 *A collection of useful repositories.*
 
 ## 目录

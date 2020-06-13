@@ -1,4 +1,3 @@
-test
 ![](https://gitee.com/TommyMerlin/image-host-gitee/raw/master/pilot.jpg)
 *A collection of useful repositories.*
 

@@ -1,3 +1,9 @@
-git aa
-git com "Update"
-git push
+@echo off
+
+echo ----------------------------------
+
+echo       应用教学
+
+echo ----------------------------------
+
+pause

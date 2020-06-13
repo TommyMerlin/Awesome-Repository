@@ -1,6 +1,8 @@
-# GitHub项目精选
+test
 ![](https://gitee.com/TommyMerlin/image-host-gitee/raw/master/pilot.jpg)
 *A collection of useful repositories.*
+
+---
 
 ##  机器学习
 ### 学习资料
@@ -436,6 +438,9 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。  
 > 网站: <https://www.layui.com/>
 
+[bradtraversy / vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+> 仅靠 HTML5, CSS 和 JavaScript 构建的微型项目。  
+
 ### 前端库
 
 [beizhedenglong / rough-charts](https://github.com/beizhedenglong/rough-charts)
@@ -796,4 +801,9 @@ Regular expressions that match the mobile phone number in mainland China.
 
 ## 精选文章
 [设计模式](https://refactoringguru.cn/design-patterns)
-> 该网站为中文教程，使用通俗的语言，介绍各种设计模式，图文并茂。此外，还有代码重构方面的英语内容。
+> 该网站为中文教程，使用通俗的语言，介绍各种设计模式，图文并茂。此外，还有代码重构方面的英语内容。  
+
+## Example
+[owner](link)
+> content  
+> 网站: <link>

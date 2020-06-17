@@ -1,5 +1,5 @@
 ![](https://gitee.com/TommyMerlin/image-host-gitee/raw/master/pilot.jpg)
-*A collections of useful repositories.*
+*A collection of useful repositories.*
 
 ---
 

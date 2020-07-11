@@ -645,6 +645,9 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 [code2flow](https://code2flow.com/app)
 > 一个符合直觉的，从伪码生成流程图的工具。
 
+[文本到图形的在线工具](https://smusamashah.github.io/text-to-diagram)
+> 这个页面给出一个在线工具的清单，可以将文本（图形的描述）渲染成图形，比如 PlantUML 和 ASCIIFlow。  
+
 [asciiflow](http://asciiflow.com/)
 > 一个画 ASCII 码框图的网站。  
 
@@ -804,6 +807,9 @@ Regular expressions that match the mobile phone number in mainland China.
 
 [Artvee](https://artvee.com/)
 > 该网站收集古典艺术品的照片和海报，都可以免费下载使用。  
+
+[Etymology](http://www.chineseetymology.org/)
+> 汉字字形汇总，一个老外 20 多年的杰作，让人肃然起敬。  
 
 ## Example
 [owner](link)

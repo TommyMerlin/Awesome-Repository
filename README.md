@@ -689,6 +689,9 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 [Flourish](https://app.flourish.studio/)
 > 在线数据可视化工具。  
 
+[MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
+> 生成笔记纸、方格纸、网格纸、草稿纸、乐谱纸、画稿纸等多种类型笔记纸，可下载 PDF。  
+
 ### 设计工具
 
 [Happy Hues](https://www.happyhues.co/palettes/17)
@@ -807,6 +810,9 @@ Regular expressions that match the mobile phone number in mainland China.
 
 [Artvee](https://artvee.com/)
 > 该网站收集古典艺术品的照片和海报，都可以免费下载使用。  
+
+[airpano](http://www.airpano.com/)
+> 超高清360°全景航拍。  
 
 [Etymology](http://www.chineseetymology.org/)
 > 汉字字形汇总，一个老外 20 多年的杰作，让人肃然起敬。  

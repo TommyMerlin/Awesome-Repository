@@ -817,6 +817,9 @@ Regular expressions that match the mobile phone number in mainland China.
 [Etymology](http://www.chineseetymology.org/)
 > 汉字字形汇总，一个老外 20 多年的杰作，让人肃然起敬。  
 
+[Brick Block](http://oskarstalberg.com/game/house/index.html)
+> 一个浏览器小游戏，使用砖块随心所欲建造大楼，只支持桌面浏览器。  
+
 ## Example
 [owner](link)
 > content  

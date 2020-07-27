@@ -692,6 +692,10 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 [MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 > 生成笔记纸、方格纸、网格纸、草稿纸、乐谱纸、画稿纸等多种类型笔记纸，可下载 PDF。  
 
+[FabDevGit / barchartrace](https://github.com/FabDevGit/barchartrace)
+> 在线生成条形竞赛图动画。  
+> 网站: <https://fabdevgit.github.io/barchartrace/>
+
 ### 设计工具
 
 [Happy Hues](https://www.happyhues.co/palettes/17)

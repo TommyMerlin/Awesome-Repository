@@ -696,6 +696,9 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 > 在线生成条形竞赛图动画。  
 > 网站: <https://fabdevgit.github.io/barchartrace/>
 
+[随机数据生成器](https://random-data-api.com/)
+> 这个网站提供一个 API，可以让你定制想要的随机数据，以 JSON 格式返回。  
+
 ### 设计工具
 
 [Happy Hues](https://www.happyhues.co/palettes/17)

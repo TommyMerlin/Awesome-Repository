@@ -699,6 +699,15 @@ Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
 [随机数据生成器](https://random-data-api.com/)
 > 这个网站提供一个 API，可以让你定制想要的随机数据，以 JSON 格式返回。  
 
+[QRpicture](https://www.qrpicture.com/)
+> 一个在线工具，把图片变成可以扫描的二维码。  
+
+[Screen Share Party](https://ba.net/screen-share-party/#6175501872347977)
+> 该网站通过 WebRTC 协议把你的桌面分享给其他人。它生成一个 URL，其他人访问这个 URL，就能看到你的桌面。  
+
+[全国地图](https://datav.aliyun.com/tools/atlas)
+> 生成全国各省市区地图，可下载 svg 格式。  
+
 ### 设计工具
 
 [Happy Hues](https://www.happyhues.co/palettes/17)

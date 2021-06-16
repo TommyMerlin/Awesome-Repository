@@ -1,8 +1,3 @@
-![](https://aliyun-oss-coderhuye.oss-cn-hangzhou.aliyuncs.com/blog/2021-06-16-pilot-ceb143.jpeg)
-<strong style="color:#c04851;">A collection of useful repositories.</strong>
-
----
-
 ## 有趣项目 
 
 [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11)
@@ -1079,4 +1074,5 @@
 > 用户指定一个颜色，该网站会自动生成基于该颜色的渐变模式。  
 
 [Cool Backgrounds](https://coolbackgrounds.io/)
+
 > 自动生成背景图片的工具网站，现在提供五种风格，每种都可以定制。  

@@ -14,11 +14,14 @@
     window.$docsify = {
       name: 'Github项目精选',
       repo: '',
-      search: 'auto',
-      placeholder: '搜索',
-      noData: '找不到结果',
-      // 搜索标题的最大程级, 1 - 6
-      depth: 3,
+      search: {
+        //maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto',
+        placeholder: '搜索',
+        noData: '找不到结果',
+        // 搜索标题的最大程级, 1 - 6
+        depth: 3,
+      },
       // 字数统计
       count: {
         countable: true,

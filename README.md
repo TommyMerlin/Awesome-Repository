@@ -1,11 +1,27 @@
+---
+title: GitHub项目精选
+date: 2019-03-22 18:15:39
+tags:
+- github
+- 工具
+categories:
+- 汇总
+top: 100
+---
+
+![](https://aliyun-oss-coderhuye.oss-cn-hangzhou.aliyuncs.com/blog/2021-06-16-pilot-ceb143.jpeg)
+<strong style="color:#c04851;">A collection of useful repositories.</strong>
+
+---
+
 ## 有趣项目 
 
 [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11)
-> 阿波罗 11 号。
+> 阿波罗 111 号。
 
 [YunYouJun / air-conditioner](https://github.com/YunYouJun/air-conditioner)
 > ❄️ 云空调，便携小空调，为你的夏日带去清凉！  
-> 网站: <https://ac.yunyoujun.cn/>
+> 网站: <https://ac.yunyoujun.cn/>  
 > 类似网站: <https://fan.elpsy.cn/>
 
 [VincentSit / ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex)
@@ -1003,6 +1019,9 @@
 > 类似网站: <https://carbon.now.sh/>  
 > 类似网站: <https://codeimg.io/>
 
+[Text2image](https://text2image.jaychen.fun/)
+> 一个将文字或代码转换成图片的网页工具，可定制项多，主题、水印、阴影特效等都能自定义。  
+
 [云短信](https://www.materialtools.com/)
 > 在线短信接收。   
 > 类似网站：<https://www.zusms.com/>   
@@ -1074,5 +1093,9 @@
 > 用户指定一个颜色，该网站会自动生成基于该颜色的渐变模式。  
 
 [Cool Backgrounds](https://coolbackgrounds.io/)
-
 > 自动生成背景图片的工具网站，现在提供五种风格，每种都可以定制。  
+
+## Example
+[owner](link)
+> content  
+> 网站: <link>

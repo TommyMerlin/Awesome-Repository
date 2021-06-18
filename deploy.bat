@@ -1,0 +1,1 @@
+xcopy /S /Y *.* D:\wamp64\www\github\ && git aa && git com "update" && git push

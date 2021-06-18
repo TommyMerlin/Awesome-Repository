@@ -17,7 +17,7 @@ top: 100
 ## 有趣项目 
 
 [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11)
-> 阿波罗 111 号。
+> 阿波罗 11 号。
 
 [YunYouJun / air-conditioner](https://github.com/YunYouJun/air-conditioner)
 > ❄️ 云空调，便携小空调，为你的夏日带去清凉！  

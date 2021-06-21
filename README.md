@@ -825,9 +825,16 @@ top: 100
 > ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具。  
 > 网站: <https://www.showdoc.cc/>
 
+[萧明 / knife4j](https://gitee.com/xiaoym/knife4j)
+> knife4j 是为 Java MVC 框架集成 Swagger 生成 Api 文档的工具，前身是 swagger-bootstrap-ui。  
+> 网站: <https://doc.xiaominfo.com/knife4j/documentation/>
+
+[smart-doc-team / smart-doc](https://gitee.com/smart-doc-team/smart-doc)
+> smart-doc 是一款同时支持 java restful api 和 apache dubbo rpc 接口文档生成的工具。完全基于注释生成文档，做到零侵入。  
+> 网站: <link>
+
 [mockoon / mockoon](https://github.com/mockoon/mockoon)
 > Mockoon 是在本地运行 mock api 最简单、最快的方法。无需远程部署，无需帐户，开源。   
-> 网站: <https://mockoon.com/>
 
 ### 测试数据生成 API
 

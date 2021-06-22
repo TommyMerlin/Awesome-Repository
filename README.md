@@ -6,14 +6,13 @@ tags:
 - 工具
 categories:
 - 汇总
-description: A collection of useful repositories.
 sticky: 100
 ---
 
 ![](https://aliyun-oss-coderhuye.oss-cn-hangzhou.aliyuncs.com/blog/2021-06-16-pilot-ceb143.jpeg)
 <strong style="color:#c04851;">A collection of useful repositories.</strong>
 
-<!--more-->
+<!-- more -->
 
 ---
 

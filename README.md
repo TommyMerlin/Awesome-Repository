@@ -231,7 +231,7 @@ sticky: 100
 [anuraghazra / github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 > 在你的 README 中获取动态生成的 GitHub 统计信息！  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TommyMerlin&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TommyMerlin&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [gelstudios / gitfiti](https://github.com/gelstudios/gitfiti)
 
@@ -249,7 +249,7 @@ sticky: 100
 [antonkomarev / github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 
 > 统计你的 GitHub 个人主页被访问的次数。  
-![](https://komarev.com/ghpvc/?username=TommyMerlin) 
+> ![](https://komarev.com/ghpvc/?username=TommyMerlin) 
 
 ### 游戏
 [在线万花尺绘制器](https://nathanfriend.io/inspirograph/)

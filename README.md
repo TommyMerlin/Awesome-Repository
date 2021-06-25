@@ -781,11 +781,6 @@ sticky: 100
 > A modern alternative to CSS resets.  
 > 网站: <http://necolas.github.io/normalize.css/>
 
-[tobiasahlin / SpinKit](https://github.com/tobiasahlin/SpinKit)
-
-> CSS写的加载动画合集。  
-> 网站: <http://tobiasahlin.com/spinkit/>
-
 [Binaryify / NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
 
 > 网易云音乐 Node.js API service  
@@ -873,6 +868,32 @@ sticky: 100
 [前端开发精选工具库](http://frontendtools.com/)
 
 > 收集前端开发各方面的工具。  
+
+### CSS
+
+[l-hammer / You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css)
+
+> Web开发者应该掌握的 CSS tricks。  
+> 网站: <https://lhammer.cn/You-need-to-know-css/#/zh-cn/>
+
+[chokcoco / CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)
+
+> CSS Inspiration，在这里找到写 CSS 的灵感！  
+> 网站: <https://chokcoco.github.io/CSS-Inspiration/>
+
+[QiShaoXuan / css_tricks](https://github.com/QiShaoXuan/css_tricks)
+
+> 一些 CSS 常用样式。  
+> 网站: <https://qishaoxuan.github.io/css_tricks/>
+
+[tobiasahlin / SpinKit](https://github.com/tobiasahlin/SpinKit)
+
+> CSS 写的加载动画合集。  
+> 网站: <http://tobiasahlin.com/spinkit/>
+
+[animista](https://animista.net/)
+
+> 一些 CSS 实现的动画效果。  
 
 ---
 

@@ -1073,6 +1073,11 @@ sticky: 100
 
 > Mockoon 是在本地运行 mock api 最简单、最快的方法。无需远程部署，无需帐户，开源。   
 
+[voidcosmos / npkill](https://github.com/voidcosmos/npkill)
+
+> 查找列出系统中的 `node_modules` 文件及文件大小，可选择删除。  
+> 网站: <https://npkill.js.org/>
+
 ### 测试数据生成 API
 
 [PIPL](https://pipl.ir/)

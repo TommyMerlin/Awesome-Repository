@@ -126,6 +126,11 @@ sticky: 100
 > 将地球的卫星照片当作 Windows、macOS 桌面壁纸的小工具。 
 > 网站: <https://spaceeye.app/>
 
+[Kaiyiwing / qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)
+
+> 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。  
+> 网站: <https://qwerty.kaiyi.cool/>
+
 ### 数据库
 [应用程序启动画面库](http://splashscreens.sourceforge.net/)
 
@@ -317,7 +322,6 @@ sticky: 100
 [firmai / industry-machine-learning](https://github.com/firmai/industry-machine-learning)
 
 > 机器学习在工业上的应用实例。  
-> 网站: <link>
 
 ### 书籍资源
 
@@ -355,10 +359,6 @@ sticky: 100
 > fitlog 是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具。  
 > 网站: <https://fitlog.readthedocs.io/zh/latest/>
 
-[streamlit / streamlit](https://github.com/streamlit/streamlit)
-
-> 快速创建机器学习工具。  
-
 ### 数据集
 
 [awesomedata / awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
@@ -368,6 +368,10 @@ sticky: 100
 [datasetsearch](https://datasetsearch.research.google.com/)
 
 > 谷歌-数据集搜索。
+
+[Charmve / Surface-Defect-Detection](link)
+
+> 表面缺陷检测数据集。  
 
 ---
 
@@ -408,6 +412,10 @@ sticky: 100
 
 > Data-Science--Cheat-Sheet.
 
+[gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet)
+
+> Comprehensive Python Cheatsheet.
+
 ### 第三方库/开源项目
 
 [fxsjy / jieba](https://github.com/fxsjy/jieba)
@@ -440,6 +448,10 @@ sticky: 100
 
 > 浏览器交互式数据可视化工具。  
 > 网站: <https://bokeh.org/>
+
+[rsalmei / alive-progress](https://github.com/rsalmei/alive-progress)
+
+> Python 炫酷进度条项目。  
 
 ---
 
@@ -557,6 +569,11 @@ sticky: 100
 
 > 快速、简单避免 OOM 的 java 处理 Excel 工具。  
 > 网站: <https://www.yuque.com/easyexcel/doc/easyexcel>
+
+[jhy / jsoup](https://github.com/jhy/jsoup)
+
+> Java HTML 解析器。  
+> 网站: <https://github.com/jhy/jsoup>
 
 [binarywang / java-testdata-generator](https://gitee.com/binary/java-generator)
 
@@ -753,6 +770,10 @@ sticky: 100
 > Web 开发路线图（2020）。  
 > 网站: <https://roadmap.sh/>
 
+[CavsZhouyou / Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
+
+> 🐜前端面试复习笔记。
+
 [lydiahallie / javascript-questions](https://github.com/lydiahallie/javascript-questions)
 
 > JavaScript 相关问题及解答合集。✨  
@@ -775,11 +796,6 @@ sticky: 100
 [tabler / tabler-icons](https://github.com/tabler/tabler-icons)
 
 > 450个免费的 MIT 许可的高质量 svg 图标。  
-
-[necolas / normalize.css](https://github.com/necolas/normalize.css)
-
-> A modern alternative to CSS resets.  
-> 网站: <http://necolas.github.io/normalize.css/>
 
 [Binaryify / NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
 
@@ -869,7 +885,22 @@ sticky: 100
 
 > 收集前端开发各方面的工具。  
 
+[multiavatar / Multiavatar](https://github.com/multiavatar/Multiavatar)
+
+> 生成人物头像的 JS 库。支持随机生成一个好看、独特、多文化的头像。  
+> 网站: <https://multiavatar.com/>
+
+[nhn / tui.image-editor](https://github.com/nhn/tui.image-editor)
+
+> 功能齐全的图片编辑器。支持图片剪裁、旋转、涂鸦等功能，实现了 Vue 和 React 封装的组件。  
+> 网站: <http://ui.toast.com/tui-image-editor>
+
 ### CSS
+
+[necolas / normalize.css](https://github.com/necolas/normalize.css)
+
+> A modern alternative to CSS resets.  
+> 网站: <http://necolas.github.io/normalize.css/>
 
 [l-hammer / You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css)
 
@@ -894,6 +925,11 @@ sticky: 100
 [animista](https://animista.net/)
 
 > 一些 CSS 实现的动画效果。  
+
+[kognise / water.css](https://github.com/kognise/water.css)
+
+> 一个专门为简单页面和示例网页准备的 CSS 框架。  
+> 网站: <https://watercss.kognise.dev/>
 
 ---
 
@@ -1036,6 +1072,10 @@ sticky: 100
 
 > 浏览器里面的 IDE 编辑环境，一键加载 GitHub 仓库，内部使用的是 VSCode Web 版。
 
+[conwnet / github1s](https://github.com/conwnet/github1s)
+
+> 通过 VS Code 在线快速阅读 GitHub 项目代码。  
+
 [docker-slim / docker-slim](https://github.com/docker-slim/docker-slim)
 
 > 一个 Docker 镜像文件的瘦身工具，据称最好情况下，可以让镜像文件体积缩小为原来的30分之一。  
@@ -1119,6 +1159,11 @@ sticky: 100
 [lazydocker](https://github.com/jesseduffield/lazydocker)
 
 > 命令行管理 Docker 服务的一个图形界面工具。  
+
+[cuiocean / ZY-Player](https://github.com/cuiocean/ZY-Player)
+
+> ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞  
+> 网站: <http://zyplayer.fun/>
 
 [Micro](https://github.com/zyedidia/micro)
 
@@ -1235,6 +1280,11 @@ sticky: 100
 
 > 该网站提供网站状态监控服务。免费账户可以监控三个网址，监控内容包括：运行时间监控、性能监控、SSL 监控和页面大小监控。  
 
+[upptime / upptime](https://github.com/upptime/upptime)
+
+> 一个免费开源的网站正常运行时间（uptime）监控服务。  
+> 网站: <https://upptime.js.org/>
+
 [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 
 > 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  
@@ -1322,6 +1372,11 @@ sticky: 100
 [Text2image](https://text2image.jaychen.fun/)
 
 > 一个将文字或代码转换成图片的网页工具，可定制项多，主题、水印、阴影特效等都能自定义。  
+
+[alyssaxuu / screenity](https://github.com/alyssaxuu/screenity)
+
+> 一个强大的屏幕录制和标注的 Chrome 插件。  
+> 网站: <https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji>
 
 [云短信](https://www.materialtools.com/)
 

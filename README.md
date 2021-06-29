@@ -359,6 +359,12 @@ sticky: 100
 > fitlog 是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具。  
 > 网站: <https://fitlog.readthedocs.io/zh/latest/>
 
+### 开源项目
+
+[microsoft / computervision-recipes](https://github.com/microsoft/computervision-recipes)
+
+> 计算机视觉系统最佳实践，包含各种 CV 示例项目。示例使用 PytTorch 深度学习库+ Jupyter 文件，涵盖：图像分类、相似、识别、追踪等方面。  
+
 ### 数据集
 
 [awesomedata / awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
@@ -895,6 +901,11 @@ sticky: 100
 > 功能齐全的图片编辑器。支持图片剪裁、旋转、涂鸦等功能，实现了 Vue 和 React 封装的组件。  
 > 网站: <http://ui.toast.com/tui-image-editor>
 
+[naptha / tesseract.js](https://github.com/naptha/tesseract.js)
+
+> 支持多种语言的文字识别的 JS 库，能够方便、准确的把图片中的文字解析提取出来（可复制）。  
+> 网站: <http://tesseract.projectnaptha.com/>
+
 ### CSS
 
 [necolas / normalize.css](https://github.com/necolas/normalize.css)
@@ -930,6 +941,11 @@ sticky: 100
 
 > 一个专门为简单页面和示例网页准备的 CSS 框架。  
 > 网站: <https://watercss.kognise.dev/>
+
+[flukeout / css-diner](https://github.com/flukeout/css-diner)
+
+> 通过游戏方式在线学习 CSS 选择器知识。  
+> 网站: <https://flukeout.github.io/>
 
 ---
 
@@ -1029,6 +1045,8 @@ sticky: 100
 [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex)
 
 > 学习正则表达式。Learn regex the easy way.
+>
+> 相关网站: 
 
 [Lellansin / Cipher-examples](https://github.com/Lellansin/Cipher-examples)
 
@@ -1470,7 +1488,7 @@ sticky: 100
 > 自动生成背景图片的工具网站，现在提供五种风格，每种都可以定制。  
 
 ## Example
-[owner](link)
+[owner](https://github.com/)
 
 > content  
 > 网站: <link>

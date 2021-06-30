@@ -47,7 +47,7 @@ sticky: 100
 [cmiscm / leonsans](https://github.com/cmiscm/leonsans)
 
 > 代码生成的字体。  
-> 网站: <https://leon-kim.com/>
+> 网站: <https://leon-kim.com/examples/>
 
 [shimohq / chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 

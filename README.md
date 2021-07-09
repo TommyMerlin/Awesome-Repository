@@ -131,7 +131,12 @@ sticky: 100
 > 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。  
 > 网站: <https://qwerty.kaiyi.cool/>
 
+[Fluid Paint](https://david.li/paint/)
+
+> 一个网页画板工具，可以定制笔刷，产生刷油漆的流体效果，非常精美。
+
 ### 数据库
+
 [应用程序启动画面库](http://splashscreens.sourceforge.net/)
 
 > 这个仓库收集各种程序各个版本的开机画面。 

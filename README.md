@@ -135,6 +135,10 @@ sticky: 100
 
 > 一个网页画板工具，可以定制笔刷，产生刷油漆的流体效果，非常精美。
 
+[cuiliang / ClickShow](https://github.com/cuiliang/ClickShow)
+
+> 在鼠标点击左键、右键或者中键时，显示类似波纹的效果。  
+
 ### 数据库
 
 [应用程序启动画面库](http://splashscreens.sourceforge.net/)
@@ -152,6 +156,12 @@ sticky: 100
 [水果证件照](https://github.com/jwenjian/ghiblog/issues/114)
 
 > Python 爬虫保存美国农业部网站的水果数据库。  
+
+[Windy](https://www.windy.com/)
+
+> 气象观测网站。
+>
+> 类似网站: <https://www.ventusky.com/>
 
 [Artvee](https://artvee.com/)
 
@@ -1461,6 +1471,18 @@ sticky: 100
 > 生成 SVG 的波浪图片。  
 
 ### 地图相关
+
+[自然资源部标准地图服务系统](http://bzdt.ch.mnr.gov.cn/)
+
+> 地图下载。  
+>
+> 类似网站：<http://www.onegreen.net/maps/m/>
+
+[大卫拉姆齐地图图书馆](https://www.davidrumsey.com/)
+
+> 古地图下载。  
+>
+> 类似网站: <https://digitalatlas.ascdc.sinica.edu.tw/>
 
 [地图选择器](https://datav.aliyun.com/tools/atlas)
 

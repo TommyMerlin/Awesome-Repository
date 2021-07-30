@@ -1483,6 +1483,8 @@ sticky: 100
 > 古地图下载。  
 >
 > 类似网站: <https://digitalatlas.ascdc.sinica.edu.tw/>
+>
+> 类似网站: <http://timespace-china.fudan.edu.cn/>
 
 [地图选择器](https://datav.aliyun.com/tools/atlas)
 

@@ -234,6 +234,11 @@ sticky: 100
 
 > 世界各国虚拟身份信息、地址、信用卡生成。  
 
+[holynova / gushi_namer](https://github.com/holynova/gushi_namer)
+
+> 古诗文起名古诗文起名。  
+> 网站: <http://xiaosang.net/gushi_namer/> 
+
 ### Github 相关
 [pomber / git-history](https://github.com/pomber/git-history)  
 
@@ -1353,6 +1358,10 @@ sticky: 100
 [Flourish](https://app.flourish.studio/)
 
 > 在线数据可视化工具。  
+
+[rawgraphs](https://rawgraphs.io/)
+
+> 一个 Web 工具，只要把电子表格的数据复制粘贴到网页上，就可以转成数据可视化图形，不需要编写代码。  
 
 [MyGraphPaper](https://www.mygraphpaper.com/index.php?lang=zh-hans)
 

@@ -180,6 +180,10 @@ sticky: 100
 
 > 中国妖怪百集，网站包括但不仅限于妖、怪、神、鬼、精、魔、仙等怪力乱神，甚至还包括一些神奇的植物。知妖是一个开放的在线“妖怪”资料库。致力于收集、整理、介绍、分享古人文献中的“妖怪”。  
 
+[WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime/)
+
+> 一个民间众包项目，用户通过腾讯文档的表格，提交自己所在部门的上下班作息时间，可以用来了解不同公司的加班情况。
+
 ### 工具
 [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui)
 
@@ -1342,6 +1346,10 @@ sticky: 100
 
 > 开源的卡通头像生成器，可以定制各种头像参数。 
 > 类似网站：<https://multiavatar.com/> 
+
+[Notion Avatar Maker](https://notion-avatar.vercel.app/zh)
+
+> 在线制作 Notion 风格的个人头像。  
 
 [双拼输入法练习](https://linci.co/sp/)
 

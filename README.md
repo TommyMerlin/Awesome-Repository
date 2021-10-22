@@ -187,11 +187,7 @@ sticky: 100
 ### 工具
 [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui)
 
-> 跨平台全屏科幻效果终端工具。  
-
-[beurtschipper / Depix](https://github.com/beurtschipper/Depix)
-
-> 发布图片时，很多人喜欢使用马赛克隐去敏感信息，这个工具可以将打马赛克的文字还原。所以，隐藏信息尽量不要使用马赛克，最好是覆盖掉。  
+> 跨平台全屏科幻效果终端工具。   
 
 [Jannchie / Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
 
@@ -1274,7 +1270,11 @@ sticky: 100
 
 [variflight](https://flightadsb.variflight.com/)
 
-> 全球航班飞行轨迹实时跟踪雷达。  
+> 全球航班飞行轨迹实时跟踪雷达。
+
+  [一证通查](https://getsimnum.caict.ac.cn/)
+
+> 工信部推出的官方服务，查看个人名下登记了多少张电话卡。
 
 ### 在线工具
 
@@ -1486,6 +1486,10 @@ sticky: 100
 [SVG Waves](https://www.softr.io/tools/svg-wave-generator)
 
 > 生成 SVG 的波浪图片。  
+
+[beurtschipper / Depix](https://github.com/beurtschipper/Depix)
+
+> 发布图片时，很多人喜欢使用马赛克隐去敏感信息，这个工具可以将打马赛克的文字还原。所以，隐藏信息尽量不要使用马赛克，最好是覆盖掉。 
 
 ### 地图相关
 

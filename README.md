@@ -163,6 +163,10 @@ sticky: 100
 >
 > 类似网站: <https://www.ventusky.com/>
 
+[Animated Knots](https://www.animatedknots.com/)
+
+> 绳结打法数据库。  
+
 [Artvee](https://artvee.com/)
 
 > 该网站收集古典艺术品的照片和海报，都可以免费下载使用。  

@@ -1470,6 +1470,14 @@ sticky: 100
 [ColouriseSG](https://colourise.sg/)
 
 > 老照片上色。  
+>
+> 类似网站：<https://jpghd.com/>  
+
+[jpgHD](https://jpghd.com/)
+
+> 图片无损放大。  
+>
+> 类似网站：<https://github.com/AaronFeng753/Waifu2x-Extension-GUI>  
 
 [Geometrize](https://www.geometrize.co.uk/)
 

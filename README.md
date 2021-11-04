@@ -243,6 +243,10 @@ sticky: 100
 > 古诗文起名古诗文起名。  
 > 网站: <http://xiaosang.net/gushi_namer/> 
 
+[AI声音合成](https://uberduck.ai/)
+
+> AI声音合成。  
+
 ### Github 相关
 [pomber / git-history](https://github.com/pomber/git-history)  
 

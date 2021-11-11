@@ -1284,6 +1284,10 @@ sticky: 100
 
 > 工信部推出的官方服务，查看个人名下登记了多少张电话卡。
 
+[thunlp / WantWords](https://github.com/thunlp/WantWords)
+
+> 万词王。反向词典，返回语义匹配查询描述的词。
+
 ### 在线工具
 
 [hakimel / reveal.js](https://github.com/hakimel/reveal.js)

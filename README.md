@@ -1524,8 +1524,14 @@ sticky: 100
 > 古地图下载。  
 >
 > 类似网站: <https://digitalatlas.ascdc.sinica.edu.tw/>
->
-> 类似网站: <http://timespace-china.fudan.edu.cn/>
+
+[中国历史地理信息平台](http://timespace-china.fudan.edu.cn/)
+
+> 复旦大学·中国历史地理信息平台。
+
+[学术地图发布平台](http://amap.zju.edu.cn/)
+
+>浙江大学·学术地图发布平台
 
 [地图选择器](https://datav.aliyun.com/tools/atlas)
 

@@ -184,10 +184,6 @@ sticky: 100
 
 > 中国妖怪百集，网站包括但不仅限于妖、怪、神、鬼、精、魔、仙等怪力乱神，甚至还包括一些神奇的植物。知妖是一个开放的在线“妖怪”资料库。致力于收集、整理、介绍、分享古人文献中的“妖怪”。  
 
-[WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime/)
-
-> 一个民间众包项目，用户通过腾讯文档的表格，提交自己所在部门的上下班作息时间，可以用来了解不同公司的加班情况。
-
 ### 工具
 [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui)
 

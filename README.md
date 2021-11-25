@@ -304,6 +304,12 @@ sticky: 100
 
 > 一个浏览器小游戏，使用砖块随心所欲建造大楼，只支持桌面浏览器。 
 
+### 其他
+
+[emojimix](https://tikolu.net/emojimix/)
+
+> 混合两个 emoji 然后生成一个新的 emoji。 
+
 ---
 
 ##  机器学习

@@ -314,6 +314,10 @@ sticky: 100
 
 > 混合两个 emoji 然后生成一个新的 emoji。 
 
+[Ambient Chaos](https://neal.fun/ambient-chaos/)
+
+> 一个网页的背景音生成器，提供20多种声音，比如风声、雨声、火车站、教堂钟声等。每种都可以调节音量，还可以选择声音进行合成。 
+
 ---
 
 ##  机器学习
@@ -1336,6 +1340,10 @@ sticky: 100
 
 > 这个页面给出一个在线工具的清单，可以将文本（图形的描述）渲染成图形，比如 PlantUML 和 ASCIIFlow。  
 
+[Plectica](https://www.plectica.com/)
+
+> 在线绘制知识图谱。  
+
 [Raileo](https://raileo.com/)
 
 > 该网站提供网站状态监控服务。免费账户可以监控三个网址，监控内容包括：运行时间监控、性能监控、SSL 监控和页面大小监控。  
@@ -1436,6 +1444,7 @@ sticky: 100
 > 可以生成漂亮的代码截图，颜色、阴影、背景都可以调整。  
 > 类似网站: <https://carbon.now.sh/>  
 > 类似网站: <https://codeimg.io/>
+> 类似网站: <https://www.codepng.app/>
 
 [Text2image](https://text2image.jaychen.fun/)
 

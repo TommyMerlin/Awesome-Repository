@@ -184,6 +184,12 @@ sticky: 100
 
 > 中国妖怪百集，网站包括但不仅限于妖、怪、神、鬼、精、魔、仙等怪力乱神，甚至还包括一些神奇的植物。知妖是一个开放的在线“妖怪”资料库。致力于收集、整理、介绍、分享古人文献中的“妖怪”。 
 
+[中国古籍保护网](http://www.nlc.cn/pcab/zy/zhgj_zyk/)
+
+> 中国古籍保护网。 
+>
+> 古籍网站：<https://new.shuge.org/>
+
  [十年前](https://neal.fun/ten-years-ago/)
 
 > 这个网站可以查看，十年前的同一天，美国的十几个著名网站是什么样子。 
@@ -1238,6 +1244,10 @@ sticky: 100
 [Albert-W / Folder-locker](https://github.com/Albert-W/Folder-locker)
 
 > 一个小巧的文件上锁软件，没有压缩和加密过程，方便快捷。  
+
+[torchgm / RoundedTB](https://github.com/torchgm/RoundedTB)
+
+> 分段显示 Windows 11 任务栏，让它像 Mac。  
 
 ### 查询
 

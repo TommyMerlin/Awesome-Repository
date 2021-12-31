@@ -194,10 +194,19 @@ sticky: 100
 
 > 这个网站可以查看，十年前的同一天，美国的十几个著名网站是什么样子。 
 
+[iptv-org / iptv](https://github.com/iptv-org/iptv)
+
+> 网络直播源。 
+
 ### 工具
 [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui)
 
 > 跨平台全屏科幻效果终端工具。   
+
+[svenstaro / genact](https://github.com/svenstaro/genact)
+
+> 摸鱼神器，无意义任务命令行生成。  
+> 网站: <https://svenstaro.github.io/genact/>  
 
 [Jannchie / Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
 

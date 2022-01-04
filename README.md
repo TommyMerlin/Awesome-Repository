@@ -1478,6 +1478,12 @@ sticky: 100
 > 一个强大的屏幕录制和标注的 Chrome 插件。  
 > 网站: <https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji>
 
+[RobinLinus / snapdrop](https://github.com/RobinLinus/snapdrop)
+
+> 局域网内部分享文件。  
+> 网站: <https://snapdrop.net/>  
+> 类似网站: <http://cend.me/>
+
 [云短信](https://www.materialtools.com/)
 
 > 在线短信接收。   

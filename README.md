@@ -561,7 +561,7 @@ sticky: 100
 
 [hollischuang / toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)
 
-> To Be Top Javaer - Java工程师成神之路。
+> To Be Top Javaer - Java工程师成神之路。  
 > 网站: <http://hollischuang.gitee.io/tobetopjavaer/#/> 
 
 [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns)

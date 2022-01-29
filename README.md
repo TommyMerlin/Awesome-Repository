@@ -333,6 +333,10 @@ sticky: 100
 
 > 混合两个 emoji 然后生成一个新的 emoji。 
 
+[Emoji to Scale](https://javier.xyz/emoji-to-scale/)
+
+> 这个网站选出一组 Emoji 符号，按照体积从小到大的顺序排列，可以滚动浏览。 
+
 [Ambient Chaos](https://neal.fun/ambient-chaos/)
 
 > 一个网页的背景音生成器，提供20多种声音，比如风声、雨声、火车站、教堂钟声等。每种都可以调节音量，还可以选择声音进行合成。 
@@ -1483,6 +1487,10 @@ sticky: 100
 > 局域网内部分享文件。  
 > 网站: <https://snapdrop.net/>  
 > 类似网站: <http://cend.me/>
+
+[微软文字转语音](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#features)
+
+> 文字转语音。
 
 [云短信](https://www.materialtools.com/)
 

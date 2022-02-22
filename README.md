@@ -1623,7 +1623,14 @@ sticky: 100
 
 > 自动生成背景图片的工具网站，现在提供五种风格，每种都可以定制。  
 
+## 优秀文章
+
+[GPS 原理解释](https://pages.longtian.info/gps/)
+
+> 解释了 GPS 的数学原理：卫星为什么可以用来定位？大量使用了动画图片进行说明。
+
 ## Example
+
 [owner](https://github.com/)
 
 > content  

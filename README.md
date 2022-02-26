@@ -198,6 +198,10 @@ sticky: 100
 
 > 网络直播源。 
 
+[PaperSizes](https://papersizes.io/)
+
+> 这个网站收集各种纸张的规格，按照行业和国别分类，总计有几百种之多。。
+
 ### 工具
 [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui)
 
@@ -1124,6 +1128,10 @@ sticky: 100
 [Visu Algo](https://visualgo.net/zh)
 
 > 该网站有各种常用算法的可视化演示。  
+
+[endoflife.date](https://endoflife.date/)
+
+> 这个网站列出了几乎所有主流项目的生命周期列表，可以快速查询哪些版本还在支持，哪些版本已经过期。  
 
 ---
 

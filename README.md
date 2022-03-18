@@ -200,7 +200,7 @@ sticky: 100
 
 [PaperSizes](https://papersizes.io/)
 
-> 这个网站收集各种纸张的规格，按照行业和国别分类，总计有几百种之多。。
+> 这个网站收集各种纸张的规格，按照行业和国别分类，总计有几百种之多。
 
 ### 工具
 [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui)
@@ -221,6 +221,10 @@ sticky: 100
 > 在线生成条形竞赛图动画。  
 > 网站: <https://fabdevgit.github.io/barchartrace/>  
 > 网站: <https://app.flourish.studio/>
+
+[Datawrapper](https://www.datawrapper.de/)
+
+> 著名的数据可视化生成工具，只要在网页上提交数据，经过几步配置，就能生成杂志级的可视化图表。
 
 [leon-ai / leon](https://github.com/leon-ai/leon)
 
@@ -1111,7 +1115,11 @@ sticky: 100
 
 > 学习正则表达式。Learn regex the easy way.
 >
-> 相关网站: 
+> 相关网站: <https://regex101.com/>
+>
+> 相关网站: <https://regex-vis.com/>
+>
+> 相关网站: <https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>
 
 [Lellansin / Cipher-examples](https://github.com/Lellansin/Cipher-examples)
 
@@ -1589,6 +1597,10 @@ sticky: 100
 >
 > 类似网站: <https://digitalatlas.ascdc.sinica.edu.tw/>
 
+[Terrain2STL](https://jthatch.com/Terrain2STL/)
+
+> 该网站可以获取全球任何一个地点的地形图，生成 STL 文件供下载。
+
 [中国历史地理信息平台](http://timespace-china.fudan.edu.cn/)
 
 > 复旦大学·中国历史地理信息平台。
@@ -1612,6 +1624,10 @@ sticky: 100
 [国家地名信息库](https://dmfw.mca.gov.cn/index.html/)
 
 > 中国·国家地名信息库。  
+
+[电力设施地图](https://openinframap.org/)
+
+> 该网站的地图显示全世界电力设施的位置，包括电厂、变电站、输电线等等，甚至还有风力发电机。  
 
 ### 设计工具
 

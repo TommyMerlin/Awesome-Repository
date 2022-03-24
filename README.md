@@ -180,14 +180,13 @@ sticky: 100
 
 > 故宫博物院官方的藏品目录，共收入 180 多万件，可以在线搜索，部分藏品带有彩色照片和文字介绍。  
 
-[知妖](https://www.cbaigui.com/)
+[纪妖](https://www.cbaigui.com/)
 
 > 中国妖怪百集，网站包括但不仅限于妖、怪、神、鬼、精、魔、仙等怪力乱神，甚至还包括一些神奇的植物。知妖是一个开放的在线“妖怪”资料库。致力于收集、整理、介绍、分享古人文献中的“妖怪”。 
 
 [中国古籍保护网](http://www.nlc.cn/pcab/zy/zhgj_zyk/)
 
 > 中国古籍保护网。 
->
 > 古籍网站：<https://new.shuge.org/>
 
  [十年前](https://neal.fun/ten-years-ago/)
@@ -274,7 +273,6 @@ sticky: 100
 [pomber / git-history](https://github.com/pomber/git-history)  
 
 > GitHub 提交历史。
->
 > 网站: <https://githistory.xyz/>
 
 [GitHub Skyline](https://skyline.github.com/)

@@ -201,6 +201,10 @@ sticky: 100
 
 > 这个网站收集各种纸张的规格，按照行业和国别分类，总计有几百种之多。
 
+[Can You Run It](https://www.systemrequirementslab.com/cyri)
+
+> **Can I Run It** 是一个帮你测试电脑性能的网站，它的游戏数据库中拥有超过 8500 款游戏，只需要选择你想要玩的游戏，下载一个小程序，几秒钟后就会告诉你：你的电脑能运行它吗。
+
 ### 工具
 [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui)
 
@@ -278,6 +282,10 @@ sticky: 100
 [GitHub Skyline](https://skyline.github.com/)
 
 > GitHub 官方出品，将你过去一年的提交统计转成一个三维的直方图，并且提供 stl 文件下载，进行 3D 打印。  
+
+[OssArt](https://getoss.art/)
+
+> 打印你的 GitHub Activity 贡献图，最长 12 年。 
 
 [tipsy / profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github/)
 
@@ -1141,18 +1149,6 @@ sticky: 100
 
 ---
 
-## AGV
-
-[AtsushiSakai / PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
-
-> 机器人算法的 Python 实例代码。
-
-[anvaka / ngraph.path](https://github.com/anvaka/ngraph.path)
-
-> 图路径搜索。
-
----
-
 ## 工具
 
 ### 开发工具
@@ -1588,6 +1584,12 @@ sticky: 100
 > 地图下载。  
 >
 > 类似网站：<http://www.onegreen.net/maps/m/>
+
+[World Imagery Wayback](https://livingatlas.arcgis.com/wayback/#active=10321&ext=119.21484,28.92340,123.52698,31.13228)
+
+> 查看各个时期的卫星图像。  
+>
+> 类似网站：<https://earthexplorer.usgs.gov/>
 
 [大卫拉姆齐地图图书馆](https://www.davidrumsey.com/)
 

@@ -808,7 +808,7 @@ sticky: 100
 
 ---
 
-## 中国大学课程资源
+## 大学课程资源
 [USTC-Resource / USTC-Course](https://github.com/USTC-Resource/USTC-Course)
 
 > 中国科学技术大学课程资源。  
@@ -826,6 +826,11 @@ sticky: 100
 [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles)
 
 > 浙江大学课程攻略共享计划。  
+> 网站: <https://qsctech.github.io/zju-icicles/>
+
+[study-is-wonderful](https://github.com/xioacd99/study-is-wonderful)
+
+> 本项目主要面向汉语人群，收集了一些比较好的公开课资源。  
 > 网站: <https://qsctech.github.io/zju-icicles/>
 
 [TheNetAdmin / zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
@@ -1480,8 +1485,8 @@ sticky: 100
 
 > 可以生成漂亮的代码截图，颜色、阴影、背景都可以调整。  
 > 类似网站: <https://carbon.now.sh/>  
-> 类似网站: <https://codeimg.io/>
-> 类似网站: <https://www.codepng.app/>
+> 类似网站: <https://codeimg.io/>  
+> 类似网站: <https://www.codepng.app/>  
 
 [Text2image](https://text2image.jaychen.fun/)
 
@@ -1652,6 +1657,14 @@ sticky: 100
 [GPS 原理解释](https://pages.longtian.info/gps/)
 
 > 解释了 GPS 的数学原理：卫星为什么可以用来定位？大量使用了动画图片进行说明。
+
+[马尔可夫链的可视化解释](https://setosa.io/blog/2014/07/26/markov-chains/)
+
+> 使用大量动画，解释什么是马尔可夫链。
+
+[动画电影的制作过程](https://disneyanimation.com/process/)
+
+> 迪斯尼的官方网页，解释动画电影是如何制作的，配有很多图片和视频。
 
 ## Example
 

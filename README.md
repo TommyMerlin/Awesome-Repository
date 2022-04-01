@@ -1281,6 +1281,10 @@ sticky: 100
 
 > 分段显示 Windows 11 任务栏，让它像 Mac。  
 
+[hiroi-sora](https://github.com/hiroi-sora/Umi-OCR)
+
+> 批量对本地图片文件进行离线OCR文字识别。  
+
 ### 查询
 
 [WhoisXML API](https://ip-geolocation.whoisxmlapi.com/api)

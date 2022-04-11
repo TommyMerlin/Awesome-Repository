@@ -1299,7 +1299,6 @@ sticky: 100
 [符号清单](https://www.toptal.com/designers/htmlarrows/)
 
 > 常用符号的 Unicode 码点、HTML 代码和 HTML 实体写法。  
-> 网站: <https://www.toptal.com/designers/htmlarrows/>  
 > 网站: <https://unicode-table.com/>  
 > 网站: <https://blog.csdn.net/wy_97/article/details/77749405>
 
@@ -1314,7 +1313,7 @@ sticky: 100
 
 [Country Flags API](https://www.countryflags.io/)
 
-> 国旗图标  
+> 国旗图标。  
 
 [世界银行](https://data.worldbank.org.cn/)
 
@@ -1669,6 +1668,10 @@ sticky: 100
 [动画电影的制作过程](https://disneyanimation.com/process/)
 
 > 迪斯尼的官方网页，解释动画电影是如何制作的，配有很多图片和视频。
+
+[了解字体的基础知识](https://sspai.com/post/71957)
+
+> 设计师入门系列，介绍英文字体的基础知识，帮你认识各种字体名词。
 
 ## Example
 

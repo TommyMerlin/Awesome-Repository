@@ -16,7 +16,7 @@ sticky: 100
 
 ---
 
-## 有趣项目 
+## 有趣项目
 
 [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11)
 
@@ -86,7 +86,6 @@ sticky: 100
 > 给未来的自己或他人写信。  
 > 同类产品：[FutureMe](https://www.futureme.org/)
 
-
 [City Walks](https://citywalks.live/)
 
 > City Walks 是一款真「云逛街」产品，它通过视频的方式，让你足不出户，就能在雅典、阿姆斯特丹、罗马、里斯本、耶路撒冷、上海、重庆、里约热内卢等 37 个城市的街头闲逛，俗称云逛街。  
@@ -123,7 +122,7 @@ sticky: 100
 
 [KYDronePilot / SpaceEye](https://github.com/KYDronePilot/SpaceEye)
 
-> 将地球的卫星照片当作 Windows、macOS 桌面壁纸的小工具。 
+> 将地球的卫星照片当作 Windows、macOS 桌面壁纸的小工具。
 > 网站: <https://spaceeye.app/>
 
 [Kaiyiwing / qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)
@@ -143,15 +142,15 @@ sticky: 100
 
 [中国语言资源保护工程采录展示平台](https://zhongguoyuyan.cn/)
 
-> 中国语言资源采录展示平台是中国语言资源保护工程的重要组成部分。主要任务是保存和管理大规模汉语方言和少数民族语言调查点采集的珍贵多媒体数据，利用科学化、规范化和具有前瞻性的技术手段，完成所有语言资源的数字化、存储管理、整理分析和应用展示等方面的工作。 
+> 中国语言资源采录展示平台是中国语言资源保护工程的重要组成部分。主要任务是保存和管理大规模汉语方言和少数民族语言调查点采集的珍贵多媒体数据，利用科学化、规范化和具有前瞻性的技术手段，完成所有语言资源的数字化、存储管理、整理分析和应用展示等方面的工作。
 
 [应用程序启动画面库](http://splashscreens.sourceforge.net/)
 
-> 这个仓库收集各种程序各个版本的开机画面。 
+> 这个仓库收集各种程序各个版本的开机画面。
 
 [How Music Taste Evolved](https://pudding.cool/2017/03/music-history/index.html)
 
-> 这个网站提供 1958 - 2016 每年美国最流行的五首歌曲，可以在线试听片段，了解美国大众音乐口味的变化。   
+> 这个网站提供 1958 - 2016 每年美国最流行的五首歌曲，可以在线试听片段，了解美国大众音乐口味的变化。
 
 [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
 
@@ -178,7 +177,7 @@ sticky: 100
 [Etymology](http://www.chineseetymology.org/)
 
 > 汉字字形汇总，一个老外（汉字叔叔） 20 多年的杰作，让人肃然起敬。  
-> B 站：<https://space.bilibili.com/697174669> 
+> B 站：<https://space.bilibili.com/697174669>
 
 [故宫博物院藏品总目](https://zm-digicol.dpm.org.cn/)
 
@@ -186,20 +185,20 @@ sticky: 100
 
 [纪妖](https://www.cbaigui.com/)
 
-> 中国妖怪百集，网站包括但不仅限于妖、怪、神、鬼、精、魔、仙等怪力乱神，甚至还包括一些神奇的植物。知妖是一个开放的在线“妖怪”资料库。致力于收集、整理、介绍、分享古人文献中的“妖怪”。 
+> 中国妖怪百集，网站包括但不仅限于妖、怪、神、鬼、精、魔、仙等怪力乱神，甚至还包括一些神奇的植物。知妖是一个开放的在线“妖怪”资料库。致力于收集、整理、介绍、分享古人文献中的“妖怪”。
 
 [中国古籍保护网](http://www.nlc.cn/pcab/zy/zhgj_zyk/)
 
-> 中国古籍保护网。 
+> 中国古籍保护网。
 > 古籍网站：<https://new.shuge.org/>
 
  [十年前](https://neal.fun/ten-years-ago/)
 
-> 这个网站可以查看，十年前的同一天，美国的十几个著名网站是什么样子。 
+> 这个网站可以查看，十年前的同一天，美国的十几个著名网站是什么样子。
 
 [iptv-org / iptv](https://github.com/iptv-org/iptv)
 
-> 网络直播源。 
+> 网络直播源。
 
 [PaperSizes](https://papersizes.io/)
 
@@ -210,9 +209,10 @@ sticky: 100
 > **Can I Run It** 是一个帮你测试电脑性能的网站，它的游戏数据库中拥有超过 8500 款游戏，只需要选择你想要玩的游戏，下载一个小程序，几秒钟后就会告诉你：你的电脑能运行它吗。
 
 ### 工具
+
 [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui)
 
-> 跨平台全屏科幻效果终端工具。   
+> 跨平台全屏科幻效果终端工具。
 
 [svenstaro / genact](https://github.com/svenstaro/genact)
 
@@ -249,7 +249,7 @@ sticky: 100
 [SkalskiP / make-sense](https://github.com/SkalskiP/make-sense)
 
 > 对图片添加标签的在线工具。  
-> 网站: <https://makesense.ai> 
+> 网站: <https://makesense.ai>
 
 [nondanee / UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
 
@@ -271,13 +271,14 @@ sticky: 100
 [holynova / gushi_namer](https://github.com/holynova/gushi_namer)
 
 > 古诗文起名古诗文起名。  
-> 网站: <http://xiaosang.net/gushi_namer/> 
+> 网站: <http://xiaosang.net/gushi_namer/>
 
 [AI声音合成](https://uberduck.ai/)
 
 > AI声音合成。  
 
 ### Github 相关
+
 [pomber / git-history](https://github.com/pomber/git-history)  
 
 > GitHub 提交历史。
@@ -289,7 +290,7 @@ sticky: 100
 
 [OssArt](https://getoss.art/)
 
-> 打印你的 GitHub Activity 贡献图，最长 12 年。 
+> 打印你的 GitHub Activity 贡献图，最长 12 年。
 
 [tipsy / profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github/)
 
@@ -317,9 +318,10 @@ sticky: 100
 [antonkomarev / github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 
 > 统计你的 GitHub 个人主页被访问的次数。  
-> ![](https://komarev.com/ghpvc/?username=TommyMerlin) 
+> ![](https://komarev.com/ghpvc/?username=TommyMerlin)
 
 ### 游戏
+
 [在线万花尺绘制器](https://nathanfriend.io/inspirograph/)
 
 > 在线万花尺绘制工具。  
@@ -339,7 +341,7 @@ sticky: 100
 
 [Brick Block](http://oskarstalberg.com/game/house/index.html)
 
-> 一个浏览器小游戏，使用砖块随心所欲建造大楼，只支持桌面浏览器。 
+> 一个浏览器小游戏，使用砖块随心所欲建造大楼，只支持桌面浏览器。
 
 [TownScaper](http://oskarstalberg.com/Townscaper/)
 
@@ -349,19 +351,20 @@ sticky: 100
 
 [emojimix](https://tikolu.net/emojimix/)
 
-> 混合两个 emoji 然后生成一个新的 emoji。 
+> 混合两个 emoji 然后生成一个新的 emoji。
 
 [Emoji to Scale](https://javier.xyz/emoji-to-scale/)
 
-> 这个网站选出一组 Emoji 符号，按照体积从小到大的顺序排列，可以滚动浏览。 
+> 这个网站选出一组 Emoji 符号，按照体积从小到大的顺序排列，可以滚动浏览。
 
 [Ambient Chaos](https://neal.fun/ambient-chaos/)
 
-> 一个网页的背景音生成器，提供20多种声音，比如风声、雨声、火车站、教堂钟声等。每种都可以调节音量，还可以选择声音进行合成。 
+> 一个网页的背景音生成器，提供20多种声音，比如风声、雨声、火车站、教堂钟声等。每种都可以调节音量，还可以选择声音进行合成。
 
 ---
 
-##  机器学习
+## 机器学习
+
 ### 学习资料
 
 [apachecn / AiLearning](https://github.com/apachecn/AiLearning)
@@ -406,7 +409,7 @@ sticky: 100
 
 [datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
 
-> 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+> 《机器学习》（西瓜书）公式推导解析，在线阅读地址：<https://datawhalechina.github.io/pumpkin-book>
 
 [zergtant / pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
@@ -541,6 +544,7 @@ sticky: 100
 ---
 
 ## Java
+
 ### 资源汇总
 
 [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide)
@@ -584,7 +588,7 @@ sticky: 100
 [hollischuang / toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)
 
 > To Be Top Javaer - Java工程师成神之路。  
-> 网站: <http://hollischuang.gitee.io/tobetopjavaer/#/> 
+> 网站: <http://hollischuang.gitee.io/tobetopjavaer/#/>
 
 [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 
@@ -593,7 +597,7 @@ sticky: 100
 
 [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java)
 
-> All Algorithms implemented in Java. 
+> All Algorithms implemented in Java.
 
 [huangz1990 / redis](https://github.com/huangz1990/redis)
 
@@ -628,7 +632,7 @@ sticky: 100
 
 [sqshq / piggymetrics](https://github.com/sqshq/piggymetrics)
 
-> Microservice Architecture with Spring Boot, Spring Cloud and Docker. 
+> Microservice Architecture with Spring Boot, Spring Cloud and Docker.
 
 [dyc87112 / SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning)
 
@@ -736,6 +740,7 @@ sticky: 100
 ---
 
 ## C# DOTNET
+
 [TheAlgorithms / C-Sharp](https://github.com/TheAlgorithms/C-Sharp)
 
 > 算法的 C# 实现。
@@ -776,6 +781,7 @@ sticky: 100
 ---
 
 ## WPF
+
 [MaterialDesignInXAML / MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 
 > Google's Material Design in XAML & WPF, for C# & VB.Net.  
@@ -813,6 +819,7 @@ sticky: 100
 ---
 
 ## 大学课程资源
+
 [USTC-Resource / USTC-Course](https://github.com/USTC-Resource/USTC-Course)
 
 > 中国科学技术大学课程资源。  
@@ -825,7 +832,7 @@ sticky: 100
 [lib-pku / libpku](https://github.com/lib-pku/libpku)
 
 > 北京大学课程资料。  
-> 网站: <https://lib-pku.github.io/> 
+> 网站: <https://lib-pku.github.io/>
 
 [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles)
 
@@ -870,7 +877,7 @@ sticky: 100
 
 [airbnb / javascript](https://github.com/airbnb/javascript)
 
-> JavaScript Style Guide 
+> JavaScript Style Guide
 
 [elsewhencode / project-guidelines](https://github.com/elsewhencode/project-guidelines)
 
@@ -880,7 +887,7 @@ sticky: 100
 
 [pandao / editor.md](https://github.com/pandao/editor.md)
 
-> 开源可嵌入的在线Markdown编辑器（模块）。   
+> 开源可嵌入的在线Markdown编辑器（模块）。
 > 网站: <http://editor.md.ipandao.com/>
 
 [tabler / tabler-icons](https://github.com/tabler/tabler-icons)
@@ -1061,7 +1068,7 @@ sticky: 100
 
 [ryanoasis / nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 
-> 图标、字体集合。🔡 
+> 图标、字体集合。🔡
 
 [justjavac / awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
@@ -1074,7 +1081,7 @@ sticky: 100
 
 [kon9chunkit / GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 
-> 🇨🇳 GitHub 中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ 
+> 🇨🇳 GitHub 中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
 
 [ruanyf / weekly](https://github.com/ruanyf/weekly)
 
@@ -1209,7 +1216,7 @@ sticky: 100
 
 [mockoon / mockoon](https://github.com/mockoon/mockoon)
 
-> Mockoon 是在本地运行 mock api 最简单、最快的方法。无需远程部署，无需帐户，开源。   
+> Mockoon 是在本地运行 mock api 最简单、最快的方法。无需远程部署，无需帐户，开源。
 
 [voidcosmos / npkill](https://github.com/voidcosmos/npkill)
 
@@ -1217,11 +1224,6 @@ sticky: 100
 > 网站: <https://npkill.js.org/>
 
 ### 测试数据生成 API
-
-[PIPL](https://pipl.ir/)
-
-> 生成随机的假的人物数据。  
-> API示例: <https://pipl.ir/v1/getPerson>
 
 [RandomUser](https://randomuser.me/)
 
@@ -1371,7 +1373,7 @@ sticky: 100
 [Sketchviz](https://sketchviz.com/new)
 
 > 生成手绘风格的流程图的在线工具。  
-> 类似网站: <https://excalidraw.com/> 
+> 类似网站: <https://excalidraw.com/>
 
 [code2flow](https://code2flow.com/app)
 
@@ -1419,8 +1421,8 @@ sticky: 100
 
 [avataaars generator](https://getavataaars.com/)
 
-> 开源的卡通头像生成器，可以定制各种头像参数。 
-> 类似网站：<https://multiavatar.com/> 
+> 开源的卡通头像生成器，可以定制各种头像参数。
+> 类似网站：<https://multiavatar.com/>
 
 [Notion Avatar Maker](https://notion-avatar.vercel.app/zh)
 
@@ -1452,7 +1454,7 @@ sticky: 100
 
 [随机数据生成器](https://random-data-api.com/)
 
-> 这个网站提供一个 API，可以让你定制想要的随机数据，以 JSON 格式返回。   
+> 这个网站提供一个 API，可以让你定制想要的随机数据，以 JSON 格式返回。
 
 [Screen Share Party](https://ba.net/screen-share-party/#6175501872347977)
 
@@ -1460,7 +1462,7 @@ sticky: 100
 
 [Diffchecker](https://www.diffchecker.com/)
 
-> 可以检查文本、图片、PDF 之间的差异。 
+> 可以检查文本、图片、PDF 之间的差异。
 
 [Calligrapher.ai](https://www.calligrapher.ai/)
 
@@ -1522,17 +1524,17 @@ sticky: 100
 
 [云短信](https://www.materialtools.com/)
 
-> 在线短信接收。   
-> 类似网站：<https://www.zusms.com/>   
-> 类似网站：<http://www.z-sms.com/>   
-> 类似网站：<https://jieduanxin.com/>   
+> 在线短信接收。
+> 类似网站：<https://www.zusms.com/>
+> 类似网站：<http://www.z-sms.com/>
+> 类似网站：<https://jieduanxin.com/>
 
 [临时邮箱](http://24mail.chacuo.net/)
 
 > 临时邮箱、十分钟邮箱。  
-> 类似网站：<https://10minutemail.net/>   
-> 类似网站：<https://10minutemail.com/>   
-> 类似网站：<https://m.kuku.lu/>    
+> 类似网站：<https://10minutemail.net/>
+> 类似网站：<https://10minutemail.com/>
+> 类似网站：<https://m.kuku.lu/>
 > 类似网站：<https://www.linshiyouxiang.net/>  
 > 类似网站：<https://mailnesia.com/>  
 > 类似网站：<https://mailsac.com/>  
@@ -1573,7 +1575,7 @@ sticky: 100
 
 [QRpicture](https://www.qrpicture.com/)
 
-> 一个在线工具，把图片变成可以扫描的二维码。 
+> 一个在线工具，把图片变成可以扫描的二维码。
 
 [LogoLy](https://www.logoly.pro/)
 
@@ -1589,7 +1591,7 @@ sticky: 100
 
 [beurtschipper / Depix](https://github.com/beurtschipper/Depix)
 
-> 发布图片时，很多人喜欢使用马赛克隐去敏感信息，这个工具可以将打马赛克的文字还原。所以，隐藏信息尽量不要使用马赛克，最好是覆盖掉。 
+> 发布图片时，很多人喜欢使用马赛克隐去敏感信息，这个工具可以将打马赛克的文字还原。所以，隐藏信息尽量不要使用马赛克，最好是覆盖掉。
 
 [逗比拯救世界](https://www.dbbqb.com/)
 

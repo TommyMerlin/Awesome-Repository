@@ -17,6 +17,16 @@ sticky: 100
 
 ---
 
+## 写在前面
+
+看到这个项目的同好们如果有推荐的 Github 项目或是觉得有用、有趣的网站等都可以发起 issue 或 PR。
+
+友情链接：
+
+- [ruanyf / weekly](https://github.com/ruanyf/weekly)    
+
+- [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+
 ## 有趣项目
 
 [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11)

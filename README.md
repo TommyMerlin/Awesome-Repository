@@ -172,11 +172,10 @@ sticky: 100
 
 > Python 爬虫保存美国农业部网站的水果数据库。  
 
-[Windy](https://www.windy.com/)
+[全球海底光缆](https://he.net/3d-map/)
 
-> 气象观测网站。
+> 这个网页提供了一个互动式的地球，上面有全世界海底光缆和骨干机房的位置。
 >
-> 类似网站: <https://www.ventusky.com/>
 
 [Animated Knots](https://www.animatedknots.com/)
 
@@ -206,7 +205,7 @@ sticky: 100
 
  [十年前](https://neal.fun/ten-years-ago/)
 
-> 这个网站可以查看，十年前的同一天，美国的十几个著名网站是什么样子。
+> 这个网站可以查看十年前的同一天，美国的十几个著名网站是什么样子。
 
 [iptv-org / iptv](https://github.com/iptv-org/iptv)
 

@@ -333,7 +333,12 @@ sticky: 100
 [antonkomarev / github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 
 > 统计你的 GitHub 个人主页被访问的次数。  
-> ![](https://komarev.com/ghpvc/?username=TommyMerlin)
+> ![Profile Views Counter](https://komarev.com/ghpvc/?username=TommyMerlin)
+
+[starchart](https://starchart.cc/)
+
+> 绘制仓库 start 数随时间变化曲线图。  
+> ![Stargazers over time](https://starchart.cc/TommyMerlin/Repository-Collection.svg)
 
 ### 游戏
 

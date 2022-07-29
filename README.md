@@ -1451,12 +1451,10 @@ sticky: 100
 
 [avataaars generator](https://getavataaars.com/)
 
-> 开源的卡通头像生成器，可以定制各种头像参数。
-> 类似网站：<https://multiavatar.com/>
-
-[Notion Avatar Maker](https://notion-avatar.vercel.app/zh)
-
-> 在线制作 Notion 风格的个人头像。  
+> 开源的卡通头像生成器，可以定制各种头像参数。  
+> 类似网站：<https://multiavatar.com/>  
+> 类似网站：<https://vue-color-avatar.vercel.app/>  
+> 类似网站：<https://notion-avatar.vercel.app/zh>
 
 [双拼输入法练习](https://linci.co/sp/)
 

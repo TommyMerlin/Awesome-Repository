@@ -227,6 +227,10 @@ sticky: 100
 
 > 中国传统纹样。
 
+[pldb](https://edit.pldb.com/lists/lists.html)
+
+> 这个数据库专门收入各种编程语言，任何人都可以提交新语言。  
+
 ### 工具
 
 [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui)

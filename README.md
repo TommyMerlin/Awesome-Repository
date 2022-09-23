@@ -149,12 +149,31 @@ sticky: 100
 
 > 在鼠标点击左键、右键或者中键时，显示类似波纹的效果。  
 
+[FakeUpdate](https://fakeupdate.net/)
+
+> 假装电脑在升级。  
+
+[人生统计](https://neal.fun/life-stats/)
+
+> 输入生日，这个网站会告诉你一些统计数字，比如你活了多少天、心跳了多少次、地球多了多少人口。。 
+
+[ERNIE-ViLG 文生图](https://wenxin.baidu.com/moduleApi/ernieVilg)
+
+> 百度 AI 引擎"文心大模型"的文生图功能，输入中文句子，输出相应的图片，类似于 DALL-E 和 Stable Diffusion。   
+> 类似网站: <https://art.elbo.ai/>
+> 类似网站: <https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG>
+> 类似网站: <https://huggingface.co/spaces/stabilityai/stable-diffusion>
+
 ### 数据库
 
 [中国语言资源保护工程采录展示平台](https://zhongguoyuyan.cn/)
 
 > 中国语言资源采录展示平台是中国语言资源保护工程的重要组成部分。主要任务是保存和管理大规模汉语方言和少数民族语言调查点采集的珍贵多媒体数据，利用科学化、规范化和具有前瞻性的技术手段，完成所有语言资源的数字化、存储管理、整理分析和应用展示等方面的工作。
 > 类似网站: <http://web.xiangyin.mobi/>
+
+[日食列表](https://nadc.china-vo.org/eclipse/)
+
+> 国家天文科学数据中心，日食查询。
 
 [应用程序启动画面库](http://splashscreens.sourceforge.net/)
 
@@ -164,6 +183,10 @@ sticky: 100
 
 > 这个网站提供 1958 - 2016 每年美国最流行的五首歌曲，可以在线试听片段，了解美国大众音乐口味的变化。
 
+[IMP Awards](http://www.impawards.com/)
+
+> 电影海报。
+
 [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
 
 > 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近 5.5 万首唐诗加 26 万宋诗. 两宋时期 1564 位词人，21050 首词。
@@ -171,6 +194,11 @@ sticky: 100
 [水果证件照](https://github.com/jwenjian/ghiblog/issues/114)
 
 > Python 爬虫保存美国农业部网站的水果数据库。  
+
+[Taste Atlas](https://www.tasteatlas.com/search) 
+
+> 全球食物地图。  
+
 
 [全球海底光缆](https://he.net/3d-map/)
 
@@ -203,6 +231,10 @@ sticky: 100
 > 中国古籍保护网。
 > 古籍网站：<https://new.shuge.org/>
 
+[麦田艺术](https://www.nbfox.com/)
+
+> 世界名画。
+
  [十年前](https://neal.fun/ten-years-ago/)
 
 > 这个网站可以查看十年前的同一天，美国的十几个著名网站是什么样子。
@@ -230,6 +262,14 @@ sticky: 100
 [pldb](https://edit.pldb.com/lists/lists.html)
 
 > 这个数据库专门收入各种编程语言，任何人都可以提交新语言。  
+
+[死亡公司公墓](https://www.itjuzi.com/deathCompany)
+
+> 新经济死亡公司数据库，是目前最全面的死亡公司数据公开平台，从死亡原因、 死亡公司赛道、烧钱榜等多维度呈现死亡公司全貌，全方位把握风口生死的命脉。
+
+[买购网](https://www.maigoo.com/)
+
+> 全行业品牌排行榜 & 购物知识。
 
 ### 工具
 
@@ -300,6 +340,14 @@ sticky: 100
 
 > AI声音合成。  
 
+[Astrometry](https://nova.astrometry.net/)
+
+> 识别照片中天空的星座。  
+
+[中国法律服务网](https://ai.12348.gov.cn/pc/) 
+
+> 根据问卷提示填写相关信息，在线为您免费出具法律意见书。    
+
 ### Github 相关
 
 [pomber / git-history](https://github.com/pomber/git-history)  
@@ -356,12 +404,16 @@ sticky: 100
 
 [JustArchiNET / ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
 
-> Steam挂卡。
+> Steam 挂卡。
 
 [rwv / chinese-dos-games](https://github.com/rwv/chinese-dos-games)
 
 > 🎮 中文 DOS 游戏。
 > 类似网站: <https://talks.dos.zone/t/collections/44653>
+
+[Flashpoint](https://bluemaxima.org/flashpoint/)
+
+> Flash 游戏库。
 
 [ornicar / lila](https://github.com/ornicar/lila)
 
@@ -392,6 +444,10 @@ sticky: 100
 [地球时钟](https://earthclock.cwandt.com/)
 
 > 这个网站使用卫星照片，显示当前的数字时间。
+
+[Muscle Wiki](https://musclewiki.com/)
+
+> 肌肉维基百科，简化你的锻炼。
 
 ---
 
@@ -1596,13 +1652,11 @@ sticky: 100
 [ColouriseSG](https://colourise.sg/)
 
 > 老照片上色。  
->
 > 类似网站：<https://jpghd.com/>  
 
 [jpgHD](https://jpghd.com/)
 
 > 图片无损放大。  
->
 > 类似网站：<https://github.com/AaronFeng753/Waifu2x-Extension-GUI>  
 
 [Geometrize](https://www.geometrize.co.uk/)
@@ -1621,9 +1675,17 @@ sticky: 100
 
 > 半调图片生成。  
 
+[图片二次打光](https://clipdrop.co/relight)
+
+> 给你的画/图片二次打光。  
+
 [SVG Waves](https://www.softr.io/tools/svg-wave-generator)
 
 > 生成 SVG 的波浪图片。  
+
+[Pattern Monster](https://cn.pattern.monster/)
+
+> 一个简单的重复性 SVG 图案在线生成器。  
 
 [beurtschipper / Depix](https://github.com/beurtschipper/Depix)
 

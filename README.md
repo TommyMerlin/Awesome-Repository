@@ -128,12 +128,12 @@ sticky: 100
 
 [SaekiRaku / vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)
 
-> 一个在你编程时疯狂称赞你的 VSCode 扩展插件。  
+> 一个在你编程时疯狂称赞你的 VSCode 扩展插件。   
 > 网站: <https://saekiraku.github.io/vscode-rainbow-fart/>
 
 [KYDronePilot / SpaceEye](https://github.com/KYDronePilot/SpaceEye)
 
-> 将地球的卫星照片当作 Windows、macOS 桌面壁纸的小工具。
+> 将地球的卫星照片当作 Windows、macOS 桌面壁纸的小工具。  
 > 网站: <https://spaceeye.app/>
 
 [Kaiyiwing / qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)
@@ -160,15 +160,15 @@ sticky: 100
 [ERNIE-ViLG 文生图](https://wenxin.baidu.com/moduleApi/ernieVilg)
 
 > 百度 AI 引擎"文心大模型"的文生图功能，输入中文句子，输出相应的图片，类似于 DALL-E 和 Stable Diffusion。   
-> 类似网站: <https://art.elbo.ai/>
-> 类似网站: <https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG>
-> 类似网站: <https://huggingface.co/spaces/stabilityai/stable-diffusion>
+> 类似网站: <https://art.elbo.ai/>  
+> 类似网站: <https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG>  
+> 类似网站: <https://huggingface.co/spaces/stabilityai/stable-diffusion>  
 
 ### 数据库
 
 [中国语言资源保护工程采录展示平台](https://zhongguoyuyan.cn/)
 
-> 中国语言资源采录展示平台是中国语言资源保护工程的重要组成部分。主要任务是保存和管理大规模汉语方言和少数民族语言调查点采集的珍贵多媒体数据，利用科学化、规范化和具有前瞻性的技术手段，完成所有语言资源的数字化、存储管理、整理分析和应用展示等方面的工作。
+> 中国语言资源采录展示平台是中国语言资源保护工程的重要组成部分。主要任务是保存和管理大规模汉语方言和少数民族语言调查点采集的珍贵多媒体数据，利用科学化、规范化和具有前瞻性的技术手段，完成所有语言资源的数字化、存储管理、整理分析和应用展示等方面的工作。  
 > 类似网站: <http://web.xiangyin.mobi/>
 
 [日食列表](https://nadc.china-vo.org/eclipse/)
@@ -228,7 +228,7 @@ sticky: 100
 
 [中国古籍保护网](http://www.nlc.cn/pcab/zy/zhgj_zyk/)
 
-> 中国古籍保护网。
+> 中国古籍保护网。  
 > 古籍网站：<https://new.shuge.org/>
 
 [麦田艺术](https://www.nbfox.com/)
@@ -352,7 +352,7 @@ sticky: 100
 
 [pomber / git-history](https://github.com/pomber/git-history)  
 
-> GitHub 提交历史。
+> GitHub 提交历史。  
 > 网站: <https://githistory.xyz/>
 
 [GitHub Skyline](https://skyline.github.com/)
@@ -388,8 +388,7 @@ sticky: 100
 
 [antonkomarev / github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 
-> 统计你的 GitHub 个人主页被访问的次数。  
-> ![Profile Views Counter](https://komarev.com/ghpvc/?username=TommyMerlin)
+> 统计你的 GitHub 个人主页被访问的次数。![Profile Views Counter](https://komarev.com/ghpvc/?username=TommyMerlin)
 
 [starchart](https://starchart.cc/TommyMerlin/Repository-Collection)
 
@@ -975,7 +974,7 @@ sticky: 100
 
 [pandao / editor.md](https://github.com/pandao/editor.md)
 
-> 开源可嵌入的在线Markdown编辑器（模块）。
+> 开源可嵌入的在线Markdown编辑器（模块）。  
 > 网站: <http://editor.md.ipandao.com/>
 
 [tabler / tabler-icons](https://github.com/tabler/tabler-icons)
@@ -1224,13 +1223,9 @@ sticky: 100
 [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex)
 
 > 学习正则表达式。Learn regex the easy way.
->
 > 相关网站: <https://regex101.com/>
->
 > 相关网站: <https://regex-vis.com/>
->
 > 相关网站: <https://devtoolcafe.com/tools/regex>
->
 > 相关网站: <https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>
 
 [Lellansin / Cipher-examples](https://github.com/Lellansin/Cipher-examples)
@@ -1624,9 +1619,9 @@ sticky: 100
 [临时邮箱](http://24mail.chacuo.net/)
 
 > 临时邮箱、十分钟邮箱。  
-> 类似网站：<https://10minutemail.net/>
-> 类似网站：<https://10minutemail.com/>
-> 类似网站：<https://m.kuku.lu/>
+> 类似网站：<https://10minutemail.net/>  
+> 类似网站：<https://10minutemail.com/>  
+> 类似网站：<https://m.kuku.lu/>  
 > 类似网站：<https://www.linshiyouxiang.net/>  
 > 类似网站：<https://mailnesia.com/>  
 > 类似网站：<https://mailsac.com/>  

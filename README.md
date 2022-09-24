@@ -76,6 +76,10 @@ sticky: 100
 
 > 该网站将不同情绪对应的声音，画成一幅地图。鼠标移到每个点上，都会听到声音，比如包含了 50% 的敬爱、33% 的同情、17% 满意的声音。  
 
+[radio aporee](https://aporee.org/maps/) 
+
+> 全球声音地图，致力于现场录音、声学和收听艺术。  
+
 [地球时间线](http://timelineofearth.com/)
 
 > 网页展示地球演化的 46 亿年。  
@@ -100,6 +104,11 @@ sticky: 100
 [City Walks](https://citywalks.live/)
 
 > City Walks 是一款真「云逛街」产品，它通过视频的方式，让你足不出户，就能在雅典、阿姆斯特丹、罗马、里斯本、耶路撒冷、上海、重庆、里约热内卢等 37 个城市的街头闲逛，俗称云逛街。  
+> 类似网站: [千亿像素](http://bigpixel.cn/zh-CN.html)
+
+[WindowSwap](https://www.window-swap.com/) 
+
+> 在世界的某个地方打开一扇新窗口。  
 
 [Little Big City](https://pissang.github.io/little-big-city/)
 
@@ -203,7 +212,6 @@ sticky: 100
 [全球海底光缆](https://he.net/3d-map/)
 
 > 这个网页提供了一个互动式的地球，上面有全世界海底光缆和骨干机房的位置。
->
 
 [Animated Knots](https://www.animatedknots.com/)
 
@@ -234,6 +242,7 @@ sticky: 100
 [麦田艺术](https://www.nbfox.com/)
 
 > 世界名画。
+> 类似网站: [中华珍宝馆](https://g2.ltfc.net/home)
 
  [十年前](https://neal.fun/ten-years-ago/)
 
@@ -270,6 +279,10 @@ sticky: 100
 [买购网](https://www.maigoo.com/)
 
 > 全行业品牌排行榜 & 购物知识。
+
+[Dimensions](https://www.dimensions.com/) 
+
+> 尺寸参考网站，记录了构成日常物体的标准尺寸。  
 
 ### 工具
 

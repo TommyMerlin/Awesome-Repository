@@ -166,13 +166,6 @@ sticky: 100
 
 > 输入生日，这个网站会告诉你一些统计数字，比如你活了多少天、心跳了多少次、地球多了多少人口。。 
 
-[ERNIE-ViLG 文生图](https://wenxin.baidu.com/moduleApi/ernieVilg)
-
-> 百度 AI 引擎"文心大模型"的文生图功能，输入中文句子，输出相应的图片，类似于 DALL-E 和 Stable Diffusion。   
-> 类似网站: <https://art.elbo.ai/>  
-> 类似网站: <https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG>  
-> 类似网站: <https://huggingface.co/spaces/stabilityai/stable-diffusion>  
-
 ### 数据库
 
 [中国语言资源保护工程采录展示平台](https://zhongguoyuyan.cn/)
@@ -207,7 +200,6 @@ sticky: 100
 [Taste Atlas](https://www.tasteatlas.com/search) 
 
 > 全球食物地图。  
-
 
 [全球海底光缆](https://he.net/3d-map/)
 
@@ -284,6 +276,10 @@ sticky: 100
 
 > 尺寸参考网站，记录了构成日常物体的标准尺寸。  
 
+[NSF 小站](http://nsf.nesbbs.com/) 
+
+> 经典 FC 游戏 BGM。  
+
 ### 工具
 
 [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui)
@@ -322,15 +318,6 @@ sticky: 100
 
 > 数学动画引擎。
 
-[SkalskiP / make-sense](https://github.com/SkalskiP/make-sense)
-
-> 对图片添加标签的在线工具。  
-> 网站: <https://makesense.ai>
-
-[nondanee / UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-
-> 解锁网易云音乐客户端变灰歌曲。  
-
 [monicahq / monica](https://github.com/monicahq/monica)
 
 > 私人客户关系管理（CRM）。记住你的朋友、家人、商务关系。  
@@ -347,11 +334,7 @@ sticky: 100
 [holynova / gushi_namer](https://github.com/holynova/gushi_namer)
 
 > 古诗文起名古诗文起名。  
-> 网站: <http://xiaosang.net/gushi_namer/>
-
-[AI声音合成](https://uberduck.ai/)
-
-> AI声音合成。  
+> 网站: <http://xiaosang.net/gushi_namer/>  
 
 [Astrometry](https://nova.astrometry.net/)
 
@@ -541,12 +524,6 @@ sticky: 100
 > fitlog 是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具。  
 > 网站: <https://fitlog.readthedocs.io/zh/latest/>
 
-### 开源项目
-
-[microsoft / computervision-recipes](https://github.com/microsoft/computervision-recipes)
-
-> 计算机视觉系统最佳实践，包含各种 CV 示例项目。示例使用 PytTorch 深度学习库+ Jupyter 文件，涵盖：图像分类、相似、识别、追踪等方面。  
-
 ### 数据集
 
 [awesomedata / awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
@@ -560,6 +537,28 @@ sticky: 100
 [Charmve / Surface-Defect-Detection](link)
 
 > 表面缺陷检测数据集。  
+
+### AI 项目
+
+[microsoft / computervision-recipes](https://github.com/microsoft/computervision-recipes)
+
+> 计算机视觉系统最佳实践，包含各种 CV 示例项目。示例使用 PytTorch 深度学习库+ Jupyter 文件，涵盖：图像分类、相似、识别、追踪等方面。  
+
+[AI声音合成](https://uberduck.ai/)
+
+> AI声音合成。  
+
+[SkalskiP / make-sense](https://github.com/SkalskiP/make-sense)
+
+> 对图片添加标签的在线工具。  
+> 网站: <https://makesense.ai>  
+
+[ERNIE-ViLG 文生图](https://wenxin.baidu.com/moduleApi/ernieVilg)
+
+> 百度 AI 引擎"文心大模型"的文生图功能，输入中文句子，输出相应的图片，类似于 DALL-E 和 Stable Diffusion，绘图 / 画图。   
+> 类似网站: <https://art.elbo.ai/>  
+> 类似网站: <https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG>  
+> 类似网站: <https://huggingface.co/spaces/stabilityai/stable-diffusion> 
 
 ---
 
@@ -1653,16 +1652,29 @@ sticky: 100
 
 > 上传肖像照，软件会自动去除背景，生成各种节日照片。  
 
+[Removebg](https://www.remove.bg/zh) 
+
+> 抠图，去除图片背景。  
+> 类似网站: <https://www.photoroom.com/background-remover/>  
+> 类似网站: <https://www.fococlipping.com/clip>
+
 [AI Picture Restorer](https://hotpot.ai/restore-picture)
 
 > 去除老照片的破损和折痕。  
+
+[quququ](https://quququ.cn/) 
+
+> 去除图片水印。  
+> 类似网站：<https://www.watermarkremover.io/zh>  
+> 类似网站：<https://www.magiceraser.io/>  
+> 类似网站：<https://theinpaint.com/>  
 
 [ColouriseSG](https://colourise.sg/)
 
 > 老照片上色。  
 > 类似网站：<https://jpghd.com/>  
 
-[jpgHD](https://jpghd.com/)
+[Bigjpg](https://bigjpg.com/)
 
 > 图片无损放大。  
 > 类似网站：<https://github.com/AaronFeng753/Waifu2x-Extension-GUI>  
@@ -1802,6 +1814,10 @@ sticky: 100
 [了解字体的基础知识](https://sspai.com/post/71957)
 
 > 设计师入门系列，介绍英文字体的基础知识，帮你认识各种字体名词。
+
+[墨西哥湾洋流](https://www.nytimes.com/interactive/2021/03/02/climate/atlantic-ocean-climate-change.html) 
+
+> 《纽约时报》的长篇可视化作品，介绍墨西哥湾洋流的影响。  
 
 ## Example
 

@@ -229,7 +229,8 @@ sticky: 100
 [中国古籍保护网](http://www.nlc.cn/pcab/zy/zhgj_zyk/)
 
 > 中国古籍保护网。  
-> 古籍网站：<https://new.shuge.org/>
+> 类似网站：[书格](https://new.shuge.org/)  
+> 类似网站：[识典古籍](https://www.shidianguji.com/)
 
 [麦田艺术](https://www.nbfox.com/)
 
@@ -1759,7 +1760,7 @@ sticky: 100
 
 > 方便易用的在线地图绘制网站。  
 
-[国家地名信息库](https://dmfw.mca.gov.cn/index.html/)
+[国家地名信息库](https://dmfw.mca.gov.cn/)
 
 > 中国·国家地名信息库。  
 

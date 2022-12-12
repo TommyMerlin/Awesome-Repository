@@ -24,8 +24,8 @@ sticky: 100
 友情链接：
 
 - [ruanyf / weekly](https://github.com/ruanyf/weekly)    
-
 - [GrowingGit / GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+- [lkssite](https://lkssite.vip/)
 
 ## 有趣项目
 
@@ -143,7 +143,7 @@ sticky: 100
 [KYDronePilot / SpaceEye](https://github.com/KYDronePilot/SpaceEye)
 
 > 将地球的卫星照片当作 Windows、macOS 桌面壁纸的小工具。  
-> 网站: <https://spaceeye.app/>
+> 网站: [Space Eye](https://spaceeye.app/)
 
 [Kaiyiwing / qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)
 
@@ -171,7 +171,8 @@ sticky: 100
 [中国语言资源保护工程采录展示平台](https://zhongguoyuyan.cn/)
 
 > 中国语言资源采录展示平台是中国语言资源保护工程的重要组成部分。主要任务是保存和管理大规模汉语方言和少数民族语言调查点采集的珍贵多媒体数据，利用科学化、规范化和具有前瞻性的技术手段，完成所有语言资源的数字化、存储管理、整理分析和应用展示等方面的工作。  
-> 类似网站: <http://web.xiangyin.mobi/>
+> 类似网站:  [乡音](http://web.xiangyin.mobi/)  
+> 类似网站:  [乡音苑](https://phonemica.net/)
 
 [日食列表](https://nadc.china-vo.org/eclipse/)
 
@@ -230,7 +231,8 @@ sticky: 100
 
 > 中国古籍保护网。  
 > 类似网站：[书格](https://new.shuge.org/)  
-> 类似网站：[识典古籍](https://www.shidianguji.com/)
+> 类似网站：[识典古籍](https://www.shidianguji.com/)  
+> 类似网站：[知识图谱](https://cnkgraph.com/)
 
 [麦田艺术](https://www.nbfox.com/)
 
@@ -280,6 +282,10 @@ sticky: 100
 [NSF 小站](http://nsf.nesbbs.com/) 
 
 > 经典 FC 游戏 BGM。  
+
+[制服地图](https://uniform.wingzero.tw/) 
+
+> 全球各类学校的制服收集,制服摄影。  
 
 ### 工具
 
@@ -390,7 +396,11 @@ sticky: 100
 [starchart](https://starchart.cc/TommyMerlin/Repository-Collection)
 
 > 绘制仓库 start 数随时间变化曲线图。  
-> ![Stargazers over time](https://starchart.cc/TommyMerlin/Repository-Collection.svg)
+> ![Stargazers over time](https://starchart.cc/TommyMerlin/Awesome-Repository.svg)
+>
+> 类似网站: <https://star-history.com/>
+>
+> [![Star History Chart](https://api.star-history.com/svg?repos=TommyMerlin/Awesome-Repository&type=Date)](https://star-history.com/#TommyMerlin/Awesome-Repository&Date)
 
 ### 游戏
 
@@ -447,7 +457,7 @@ sticky: 100
 
 ---
 
-## 机器学习
+## 人工智能
 
 ### 学习资料
 
@@ -557,9 +567,11 @@ sticky: 100
 [ERNIE-ViLG 文生图](https://wenxin.baidu.com/moduleApi/ernieVilg)
 
 > 百度 AI 引擎"文心大模型"的文生图功能，输入中文句子，输出相应的图片，类似于 DALL-E 和 Stable Diffusion，绘图 / 画图。   
+> 类似网站: <https://lexica.art/>  
 > 类似网站: <https://art.elbo.ai/>  
 > 类似网站: <https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG>  
-> 类似网站: <https://huggingface.co/spaces/stabilityai/stable-diffusion> 
+> 类似网站: <https://huggingface.co/spaces/stabilityai/stable-diffusion>   
+> 类似网站: <https://creator.nolibox.com/guest>   
 
 ---
 
@@ -1261,6 +1273,10 @@ sticky: 100
 
 > 这个网站列出了几乎所有主流项目的生命周期列表，可以快速查询哪些版本还在支持，哪些版本已经过期。  
 
+[Developer-Y / cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+
+计算机科学视频课程。  
+
 ---
 
 ## 工具
@@ -1307,10 +1323,9 @@ sticky: 100
 > knife4j 是为 Java MVC 框架集成 Swagger 生成 Api 文档的工具，前身是 swagger-bootstrap-ui。  
 > 网站: <https://doc.xiaominfo.com/knife4j/documentation/>
 
-[smart-doc-team / smart-doc](https://gitee.com/smart-doc-team/smart-doc)
+[smart-doc-team / smart-doc](https://github.com/smart-doc-group/smart-doc)
 
 > smart-doc 是一款同时支持 java restful api 和 apache dubbo rpc 接口文档生成的工具。完全基于注释生成文档，做到零侵入。  
-> 网站: <link>
 
 [mockoon / mockoon](https://github.com/mockoon/mockoon)
 
@@ -1622,6 +1637,16 @@ sticky: 100
 
 > 一个在线白板，你创建一个房间，把网址分享给其他人，大家就可以在一块网页白板上共同涂写。 
 
+[alltoall](https://www.alltoall.net/)
+
+> 文件格式转换。 
+> 类似网站: <https://www.aconvert.com/cn/>
+
+[smallpdf](https://smallpdf.com/pdf-tools)
+
+> PDF 在线转换、编辑工具。 
+> PDF 单页页内拆分: <https://www.sejda.com/split-pdf-down-the-middle>
+
 [云短信](https://www.materialtools.com/)
 
 > 在线短信接收。
@@ -1656,6 +1681,7 @@ sticky: 100
 [Removebg](https://www.remove.bg/zh) 
 
 > 抠图，去除图片背景。  
+> 类似网站: <https://bgsub.cn/webapp/>  
 > 类似网站: <https://www.photoroom.com/background-remover/>  
 > 类似网站: <https://www.fococlipping.com/clip>
 
@@ -1674,11 +1700,14 @@ sticky: 100
 
 > 老照片上色。  
 > 类似网站：<https://jpghd.com/>  
+> 类似网站：<https://palette.fm/>  
+> 类似网站：<https://github.com/jantic/DeOldify>  
 
 [Bigjpg](https://bigjpg.com/)
 
 > 图片无损放大。  
-> 类似网站：<https://github.com/AaronFeng753/Waifu2x-Extension-GUI>  
+> 类似项目：[AaronFeng753 / Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)  
+> 类似项目：[upscayl/upscayl](https://github.com/upscayl/upscayl) 
 
 [Geometrize](https://www.geometrize.co.uk/)
 
@@ -1696,9 +1725,13 @@ sticky: 100
 
 > 半调图片生成。  
 
-[图片二次打光](https://clipdrop.co/relight)
+[clipdrop光](https://clipdrop.co/relight)
 
 > 给你的画/图片二次打光。  
+
+[ToonMe](https://toonme.com/)
+
+> ToonMe 是一款将自己的照片卡通化的图片编辑器，简单易用，效果出众。  
 
 [SVG Waves](https://www.softr.io/tools/svg-wave-generator)
 

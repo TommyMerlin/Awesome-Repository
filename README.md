@@ -425,6 +425,10 @@ sticky: 100
 
 > 国际象棋。
 
+[Stockfish](https://stockfishchess.org/)
+
+> 开源国际象棋引擎。
+
 [Brick Block](http://oskarstalberg.com/game/house/index.html)
 
 > 一个浏览器小游戏，使用砖块随心所欲建造大楼，只支持桌面浏览器。
@@ -432,10 +436,6 @@ sticky: 100
 [TownScaper](http://oskarstalberg.com/Townscaper/)
 
 > 一个休闲小游戏，只要随意点击，就能生成不可思议的美丽建筑物。
-
-[Stockfish](https://stockfishchess.org/)
-
-> 开源国际象棋引擎
 
 ### 其他
 

@@ -433,6 +433,10 @@ sticky: 100
 
 > 一个休闲小游戏，只要随意点击，就能生成不可思议的美丽建筑物。
 
+[Stockfish](https://stockfishchess.org/)
+
+> 开源国际象棋引擎
+
 ### 其他
 
 [emojimix](https://tikolu.net/emojimix/)

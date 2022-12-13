@@ -961,7 +961,6 @@ sticky: 100
 [study-is-wonderful](https://github.com/xioacd99/study-is-wonderful)
 
 > 本项目主要面向汉语人群，收集了一些比较好的公开课资源。  
-> 网站: <https://qsctech.github.io/zju-icicles/>
 
 [TheNetAdmin / zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
 

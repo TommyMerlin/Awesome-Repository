@@ -1,1 +1,1 @@
-git aa && git com "update" && ipconfig /flushdns && git push
+git aa && git com "update" && git push

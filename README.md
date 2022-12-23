@@ -167,7 +167,8 @@ sticky: 100
 > 输入生日，这个网站会告诉你一些统计数字，比如你活了多少天、心跳了多少次、地球多了多少人口。。 
 
 [bruno simon的blog](https://bruno-simon.com/)
-使用three.js制作的3Dblog，效果很惊艳
+
+> 使用three.js制作的3Dblog，效果很惊艳
 
 ### 数据库
 

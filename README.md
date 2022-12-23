@@ -354,6 +354,10 @@ sticky: 100
 
 > 根据问卷提示填写相关信息，在线为您免费出具法律意见书。    
 
+[Geo Traceroute](https://geotraceroute.com/)
+
+> 用户指定 HTTP 请求的发出地和目的地，这个网站会在谷歌地球上显示路由的跳转路径。  
+
 ### Github 相关
 
 [pomber / git-history](https://github.com/pomber/git-history)  
@@ -1226,6 +1230,10 @@ sticky: 100
 
 > Leetcode 算法刷题笔记。  
 > 网站: <https://books.halfrost.com/leetcode/>
+
+[The Algorithms](https://the-algorithms.com/zh_Hans)
+
+> 这个网站收集 GitHub 上面的各种算法实现，按照种类和语言进行分类。
 
 [prakhar1989 / awesome-courses](https://github.com/prakhar1989/awesome-courses)
 

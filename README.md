@@ -47,10 +47,6 @@ sticky: 100
 
 > 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。
 
-[komeiji-satori / Dress](https://github.com/komeiji-satori/Dress)
-
-> 好耶 是女装。
-
 [Aniket965 / Hello-world](https://github.com/Aniket965/Hello-world)
 
 > 搜集所有的编程语言如何打印 “Hello World”。

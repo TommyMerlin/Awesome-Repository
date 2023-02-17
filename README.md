@@ -287,6 +287,10 @@ sticky: 100
 
 > 全球各类学校的制服收集,制服摄影。  
 
+[satellite-track](https://jiangteng2019.github.io/satellite-track/)
+
+> 基于 Web 的卫星轨道可视化项目，可以查看不同类别的卫星，代码[开源](https://github.com/jiangteng2019/satellite-track)。  
+
 ### 工具
 
 [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui)
@@ -580,6 +584,19 @@ sticky: 100
 > 类似网站: <https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG>  
 > 类似网站: <https://huggingface.co/spaces/stabilityai/stable-diffusion>   
 > 类似网站: <https://creator.nolibox.com/guest>   
+
+### GPT 相关
+
+[guaguaguaxia / weekly_report](https://github.com/guaguaguaxia/weekly_report)
+
+> 周报生成器。
+> 网站: <https://weeklyreport.avemaria.fun/>  
+
+[f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+
+> ChatGPT 调教指南。各种场景使用指南。学习怎么让它听你的话。
+> 网站: <https://prompts.chat/>  
+> 中文版: <https://github.com/PlexPt/awesome-chatgpt-prompts-zh>  
 
 ---
 

@@ -591,16 +591,34 @@ sticky: 100
 
 ### GPT 相关
 
-[guaguaguaxia / weekly_report](https://github.com/guaguaguaxia/weekly_report)
-
-> 周报生成器。
-> 网站: <https://weeklyreport.avemaria.fun/>  
-
 [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
-> ChatGPT 调教指南。各种场景使用指南。学习怎么让它听你的话。
+> ChatGPT 调教指南。各种场景使用指南。学习怎么让它听你的话。  
 > 网站: <https://prompts.chat/>  
 > 中文版: <https://github.com/PlexPt/awesome-chatgpt-prompts-zh>  
+
+[ddiu8081 / chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
+
+> 基于 OpenAI API 的前端。  
+> 类似工具: [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+
+[binary-husky / chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+
+> 科研工作专用ChatGPT拓展。
+
+[lencx / ChatGPT](https://github.com/lencx/ChatGPT)
+
+> ChatGPT 客户端。  
+> 类似工具: <https://github.com/Bin-Huang/chatbox/>
+
+[You](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
+
+> 免费 AI 问答网站。  
+> 类似网站: <https://www.phind.com/>
+
+[AI 研究所](https://www.aiyjs.com/)
+
+> 国内外 AI 资讯首发站。
 
 ---
 

@@ -420,9 +420,13 @@ sticky: 100
 
 > Steam 挂卡。
 
+[JosefNemec / Playnite](https://github.com/JosefNemec/Playnite)
+
+> 一款开源的电脑游戏管理工具。支持同步 Steam、Epic、GOG、Battle.net 等平台的游戏，导入后该工具会自动从 IGDB 获取游戏信息，为游戏提供一个统一的界面。。
+
 [rwv / chinese-dos-games](https://github.com/rwv/chinese-dos-games)
 
-> 🎮 中文 DOS 游戏。
+> 🎮 中文 DOS 游戏。  
 > 类似网站: <https://talks.dos.zone/t/collections/44653>
 
 [Flashpoint](https://bluemaxima.org/flashpoint/)

@@ -19,7 +19,7 @@ sticky: 100
 
 ## 写在前面
 
-看到这个项目的同好们如果有推荐的 Github 项目或是觉得有用、有趣的网站等都可以发起 issue 或 PR。
+看到这个项目的同好们如果有推荐的 Github 项目或是觉得有用、有趣的网站等都可以发起 issue 或 PR。  
 
 友情链接：
 
@@ -374,6 +374,10 @@ sticky: 100
 
 > 打印你的 GitHub Activity 贡献图，最长 12 年。
 
+[hellodigua / code996](https://github.com/hellodigua/code996)
+
+> 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。
+
 [tipsy / profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github/)
 
 > 可视化 GitHub 个人信息。  
@@ -515,6 +519,10 @@ sticky: 100
 
 > 机器学习在工业上的应用实例。  
 
+[poloclub / cnn-explainer](https://github.com/poloclub/cnn-explainer)
+
+> 一个帮助非专业人士学习理解卷积神经网络的交互式可视化系统。An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs)。
+
 ### 书籍资源
 
 [datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
@@ -569,11 +577,7 @@ sticky: 100
 
 [microsoft / computervision-recipes](https://github.com/microsoft/computervision-recipes)
 
-> 计算机视觉系统最佳实践，包含各种 CV 示例项目。示例使用 PytTorch 深度学习库+ Jupyter 文件，涵盖：图像分类、相似、识别、追踪等方面。  
-
-[AI声音合成](https://uberduck.ai/)
-
-> AI声音合成。  
+> 计算机视觉系统最佳实践，包含各种 CV 示例项目。示例使用 PytTorch 深度学习库+ Jupyter 文件，涵盖：图像分类、相似、识别、追踪等方面。    
 
 [SkalskiP / make-sense](https://github.com/SkalskiP/make-sense)
 
@@ -588,6 +592,10 @@ sticky: 100
 > 类似网站: <https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG>  
 > 类似网站: <https://huggingface.co/spaces/stabilityai/stable-diffusion>   
 > 类似网站: <https://creator.nolibox.com/guest>   
+
+[Baiyuetribe / paper2gui](https://github.com/Baiyuetribe/paper2gui)
+
+> 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。
 
 ### GPT 相关
 
@@ -611,6 +619,10 @@ sticky: 100
 > ChatGPT 客户端。  
 > 类似工具: <https://github.com/Bin-Huang/chatbox/>
 
+[josStorer / chatGPTBox](https://github.com/josStorer/chatGPTBox)
+
+> ChatGPT 浏览器插件。  
+
 [You](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
 
 > 免费 AI 问答网站。  
@@ -619,6 +631,14 @@ sticky: 100
 [AI 研究所](https://www.aiyjs.com/)
 
 > 国内外 AI 资讯首发站。
+
+[ChatPDF](https://www.chatpdf.com/)
+
+> 解析PDF文件内容，针对提问生成答案。
+
+[getcursor / cursor](https://github.com/getcursor/cursor)
+
+> ChatGPT 辅助代码编辑器。
 
 ---
 
@@ -1253,9 +1273,17 @@ sticky: 100
 
 ## CS相关
 
+[eryajf / Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+
+> 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像。
+
 [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes)
 
 > 📚 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计。
+
+[mtdvio / every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+
+> 每个软件开发者都应该知道的一些事。
 
 [halfrost / LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
 
@@ -1286,6 +1314,10 @@ sticky: 100
 [ruanyf / free-books](https://github.com/ruanyf/free-books)
 
 > 互联网上的免费书籍。
+
+[XiangLinPro / IT_book](https://github.com/XiangLinPro/IT_book)
+
+> 本项目收藏这些年来看过或者听过的一些不错的常用的上千本书籍，包含了互联网行业大多数书籍和面试经验题目等等。有人工智能系列（常用深度学习框架TensorFlow、pytorch、keras。NLP、机器学习，深度学习等等），大数据系列(Spark,Hadoop,Scala,kafka等)，程序员必修系列（C、C++、java、数据结构、linux，设计模式、数据库等等）。
 
 [geeeeeeeeek / git-recipes](https://github.com/geeeeeeeeek/git-recipes)
 
@@ -1325,7 +1357,7 @@ sticky: 100
 
 [Developer-Y / cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-计算机科学视频课程。  
+> 计算机科学视频课程。  
 
 ---
 
@@ -1480,10 +1512,6 @@ sticky: 100
 > 这个网站收集各种软件的 Cheat Sheet（常用操作表）。  
 > 同类网站: <http://www.cheat-sheets.org/>
 
-[Country Flags API](https://www.countryflags.io/)
-
-> 国旗图标。  
-
 [世界银行](https://data.worldbank.org.cn/)
 
 > 世界银行统计数据。  
@@ -1503,6 +1531,10 @@ sticky: 100
 [variflight](https://flightadsb.variflight.com/)
 
 > 全球航班飞行轨迹实时跟踪雷达。
+
+[船讯网](https://www.shipxy.com/)
+
+> 全球船舶位置动态跟踪、船位查询、卫星 AIS 数据。
 
   [一证通查](https://getsimnum.caict.ac.cn/)
 

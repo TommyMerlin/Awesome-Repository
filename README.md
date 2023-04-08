@@ -1836,19 +1836,16 @@ sticky: 100
 [自然资源部标准地图服务系统](http://bzdt.ch.mnr.gov.cn/)
 
 > 地图下载。  
->
 > 类似网站：<http://www.onegreen.net/maps/m/>
 
 [World Imagery Wayback](https://livingatlas.arcgis.com/wayback/#active=10321&ext=119.21484,28.92340,123.52698,31.13228)
 
 > 查看各个时期的卫星图像。  
->
 > 类似网站：<https://earthexplorer.usgs.gov/>
 
 [大卫拉姆齐地图图书馆](https://www.davidrumsey.com/)
 
 > 古地图下载。  
->
 > 类似网站: <https://digitalatlas.ascdc.sinica.edu.tw/>
 
 [Terrain2STL](https://jthatch.com/Terrain2STL/)
@@ -1866,10 +1863,6 @@ sticky: 100
 [地图选择器](https://datav.aliyun.com/tools/atlas)
 
 > 生成全国各省市区地图，可下载 svg 格式。  
-
-[Antipodes Map](https://www.antipodesmap.com/)
-
-> 这个地图工具可以显示任意地点在地球另一边的对应地点，比如在上海打一个洞穿越地心，就会来到阿根廷的恩特雷里奥斯省。  
 
 [兰图绘](http://www.ldmap.net/)
 

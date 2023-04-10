@@ -414,6 +414,11 @@ sticky: 100
 >
 > [![Star History Chart](https://api.star-history.com/svg?repos=TommyMerlin/Awesome-Repository&type=Date)](https://star-history.com/#TommyMerlin/Awesome-Repository&Date)
 
+[Platane / snk](https://github.com/Platane/snk)
+
+> 根据 GitHub 上的贡献图，自动生成蛇的行走路径，一口气吃光所有“绿块”，支持生成 gif 或 svg 格式的动图。  
+> ![](https://raw.githubusercontent.com/TommyMerlin/TommyMerlin/master/assets/github-contribution-grid-snake.svg)
+
 ### 游戏
 
 [在线万花尺绘制器](https://nathanfriend.io/inspirograph/)

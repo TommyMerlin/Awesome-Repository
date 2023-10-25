@@ -80,10 +80,6 @@ sticky: 100
 
 > 网页展示地球演化的 46 亿年。  
 
-[低地轨道可视化](https://platform.leolabs.space/visualization)
-
-> 这个可视化作品，可以让大家感受一下地球低轨道太空的实际状态，看看有多少太空垃圾。  
-
 [airpano](http://www.airpano.com/)
 
 > 超高清 360° 全景航拍。  
@@ -101,6 +97,10 @@ sticky: 100
 
 > City Walks 是一款真「云逛街」产品，它通过视频的方式，让你足不出户，就能在雅典、阿姆斯特丹、罗马、里斯本、耶路撒冷、上海、重庆、里约热内卢等 37 个城市的街头闲逛，俗称云逛街。  
 > 类似网站: [千亿像素](http://bigpixel.cn/zh-CN.html)
+
+[Wonders of Street View](https://neal.fun/wonders-of-street-view/)
+
+> 这个网站收集谷歌街景的各种奇怪影像，随机展示。 
 
 [WindowSwap](https://www.window-swap.com/) 
 
@@ -160,11 +160,15 @@ sticky: 100
 
 [人生统计](https://neal.fun/life-stats/)
 
-> 输入生日，这个网站会告诉你一些统计数字，比如你活了多少天、心跳了多少次、地球多了多少人口。。 
+> 输入生日，这个网站会告诉你一些统计数字，比如你活了多少天、心跳了多少次、地球多了多少人口。 
 
 [bruno simon的blog](https://bruno-simon.com/)
 
-> 使用three.js制作的3Dblog，效果很惊艳
+> 使用three.js制作的3Dblog，效果很惊艳。
+
+[法律摇篮曲](https://petapixel.com/2023/07/13/legal-lullabies-puts-you-to-sleep-by-reading-social-media-terms-of-use/) 
+
+> 互联网大厂的用户协议，充满了法律术语，冗长而乏味。如果仔细阅读，让人昏昏欲睡。有人想到一个点子，邀请配音演员来朗读这些协议，把录音放在网上，用来助眠，Instagram 协议的音频长达51分钟，TikTok 长约38分钟。  
 
 ### 数据库
 
@@ -177,10 +181,6 @@ sticky: 100
 [日食列表](https://nadc.china-vo.org/eclipse/)
 
 > 国家天文科学数据中心，日食查询。
-
-[应用程序启动画面库](http://splashscreens.sourceforge.net/)
-
-> 这个仓库收集各种程序各个版本的开机画面。
 
 [How Music Taste Evolved](https://pudding.cool/2017/03/music-history/index.html)
 
@@ -259,11 +259,7 @@ sticky: 100
 
 > 国家市场监管总局开发的一个数据库，面向社会免费开放，提供常见合同的示范文本。
 
-[纹藏](http://wenzang.art/)
-
-> 中国传统纹样。
-
-[pldb](https://edit.pldb.com/lists/lists.html)
+[pldb](https://pldb.com/)
 
 > 这个数据库专门收入各种编程语言，任何人都可以提交新语言。  
 
@@ -290,6 +286,39 @@ sticky: 100
 [satellite-track](https://jiangteng2019.github.io/satellite-track/)
 
 > 基于 Web 的卫星轨道可视化项目，可以查看不同类别的卫星，代码[开源](https://github.com/jiangteng2019/satellite-track)。  
+
+[中国高等院校三千所](https://laosheng.top/fuwu/yuanxiao)  
+
+> 这个网站收集中国大专院校名单和网址，按照中管、部本、省本、专科的顺序形成中国高校层级图谱。  
+
+[手机博物馆](https://www.mobilephonemuseum.com/)  
+
+> 该网站是一个老手机的搜索引擎。  
+
+[IMAX 影厅](https://docs.qq.com/sheet/DQ3FEUUZJdklNSWJP)  
+
+> 全球 IMAX 影厅分布，从 IMAX 中国到 CGS 中国巨幕，还有杜比影院、特效影厅等。记录内容包括不限于影院名称、影厅编号、座位数、银幕宽高、放映系统和音效系统。  
+
+[狄更斯插图库](https://www.charlesdickensillustration.org/)  
+
+> 这个网站收集了英国伟大小说家狄更斯的作品插图。  
+
+[Video Celebs](https://videocelebs.net/)  
+
+> 影视剧删减片段。  
+
+[高校校徽字体图标库](https://github.com/lovefc/china_school_badge)
+
+> 这个仓库收集了全国200多所高校的校徽，制作成字体图标。  
+> 网站: <http://xiaohui.lovefc.cn/>
+
+[古代地球](https://dinosaurpictures.org/ancient-earth/)  
+
+> 这个网站允许你查看各个地质年代的地球全景图，最早可以回溯到7.5亿年前。  
+
+[默沙东诊疗手册](https://www.msdmanuals.cn/home)  
+
+> 人人可用的医学知识库。  
 
 ### 工具
 
@@ -334,10 +363,6 @@ sticky: 100
 > 私人客户关系管理（CRM）。记住你的朋友、家人、商务关系。  
 > 网站: <https://www.monicahq.com/>
 
-[flexifont](http://flexifont.com/flexifont-chn/home/)
-
-> 生成自己创建的手写字体。  
-
 [世界各国虚拟身份生成](http://www.haoweichi.com/)
 
 > 世界各国虚拟身份信息、地址、信用卡生成。  
@@ -370,10 +395,6 @@ sticky: 100
 
 > GitHub 官方出品，将你过去一年的提交统计转成一个三维的直方图，并且提供 stl 文件下载，进行 3D 打印。  
 
-[OssArt](https://getoss.art/)
-
-> 打印你的 GitHub Activity 贡献图，最长 12 年。
-
 [hellodigua / code996](https://github.com/hellodigua/code996)
 
 > 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。
@@ -388,9 +409,18 @@ sticky: 100
 > 在你的 README 中获取动态生成的 GitHub 统计信息！  
 > [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TommyMerlin&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+[GitHub 名片](https://github-business-card.vercel.app/)  
+
+> 这个网页可以根据 GitHub 主页，生成用户的 GitHub 名片。  
+> <img src="https://scastiel.dev/api/image/TommyMerlin" alt="TommyMerlin’s GitHub image" width="500" height="262" />
+
 [gelstudios / gitfiti](https://github.com/gelstudios/gitfiti)
 
 > 随意更改 commit 历史。
+
+[https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)  
+
+> Git 操作的命令行 UI。  
 
 [carloscuesta / gitmoji](https://github.com/carloscuesta/gitmoji)
 
@@ -417,7 +447,11 @@ sticky: 100
 [Platane / snk](https://github.com/Platane/snk)
 
 > 根据 GitHub 上的贡献图，自动生成蛇的行走路径，一口气吃光所有“绿块”，支持生成 gif 或 svg 格式的动图。  
-> ![](https://raw.githubusercontent.com/TommyMerlin/TommyMerlin/master/assets/github-contribution-grid-snake.svg)
+
+[Gitstars](https://github.com/cfour-hi/gitstars) 
+
+> 一个开源的在线服务，用来管理你在 GitHub 打过星标的项目（收藏的项目）。  
+> 网站: <https://gitstars.cfour.top/>
 
 ### 游戏
 
@@ -436,7 +470,6 @@ sticky: 100
 [rwv / chinese-dos-games](https://github.com/rwv/chinese-dos-games)
 
 > 🎮 中文 DOS 游戏。  
-> 类似网站: <https://talks.dos.zone/t/collections/44653>
 
 [Flashpoint](https://bluemaxima.org/flashpoint/)
 
@@ -457,6 +490,18 @@ sticky: 100
 [TownScaper](http://oskarstalberg.com/Townscaper/)
 
 > 一个休闲小游戏，只要随意点击，就能生成不可思议的美丽建筑物。
+
+[Viola the Bird](https://artsandculture.google.com/experiment/nAEJVwNkp-FnrQ)  
+
+> 指挥一只小鸟拉小提琴（音游）。  
+
+[checkboxes](https://www.jezzamon.com/checkboxes/index.html)  
+
+> 点击出现的勾选框，链式反应，越点越多。  
+> 类似网站: <https://checkboxrace.com/>  
+> 类似网站: <https://checkbox.toys/>  
+> 类似网站: <https://www.bryanbraun.com/checkboxland/>  
+> 类似网站: <https://mrdoob.com/lab/javascript/checkbox_painter/>
 
 ### 其他
 
@@ -494,10 +539,6 @@ sticky: 100
 [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
 
 > 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述。
-
-[GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI)
-
-> A practical approach to machine learning.
 
 [roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)
 
@@ -645,6 +686,11 @@ sticky: 100
 
 > ChatGPT 辅助代码编辑器。
 
+[lvwzhen / law-cn-ai](https://github.com/lvwzhen/law-cn-ai)  
+
+> ⚖️ AI 法律助手。  
+> 网站: <https://law-cn-ai.vercel.app/>
+
 ---
 
 ## Python
@@ -679,10 +725,6 @@ sticky: 100
 [rougier / matplotlib-cheatsheet](https://github.com/rougier/matplotlib-cheatsheet)
 
 > Matplotlib 3.1 cheat sheet. From an upcoming book on matplotlib.
-
-[abhat222 / Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
-
-> Data-Science--Cheat-Sheet.
 
 [gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet)
 
@@ -744,7 +786,6 @@ sticky: 100
 [xingshaocheng / architect-awesome](https://github.com/xingshaocheng/architect-awesome)
 
 > 后端架构师技术图谱。  
-> 网站: <https://docs.justauth.whnb.wang/>
 
 [aalansehaiyang / technology-talk](https://github.com/aalansehaiyang/technology-talk)
 
@@ -806,7 +847,6 @@ sticky: 100
 [hansonwang99 / Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action)
 
 > Spring Boot 系列实战合集。  
-> 网站: <https://www.codesheep.cn/>
 
 ### Spring Cloud
 
@@ -886,7 +926,6 @@ sticky: 100
 [Light-City / CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
 
 > C++那些事。  
-> 网站: <https://light-city.club/sc/>
 
 [applenob / Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
 
@@ -1105,6 +1144,11 @@ sticky: 100
 > 🎉 Vue 管理系统。  
 > 网站: <https://panjiachen.github.io/vue-element-admin>
 
+[HalseySpicy / Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)
+
+> ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite4、Pinia、Element-Plus 开源的一套后台管理框架。  
+> 网站: <https://admin.spicyboy.cn/>
+
 [PanJiaChen / vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 
 > Vue2.0 最小化管理系统模板。  
@@ -1133,7 +1177,6 @@ sticky: 100
 [sentsin / layui](https://github.com/sentsin/layui)
 
 > 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。  
-> 网站: <https://www.layui.com/>
 
 [bradtraversy / vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
 
@@ -1159,11 +1202,7 @@ sticky: 100
 [timqian / chart.xkcd](https://github.com/timqian/chart.xkcd)
 
 > 一个 XKCD 漫画风格的网页图表库。  
-> 网站: <https://timqian.com/chart.xkcd/>
-
-[前端开发精选工具库](http://frontendtools.com/)
-
-> 收集前端开发各方面的工具。  
+> 网站: <https://timqian.com/chart.xkcd/>  
 
 [multiavatar / Multiavatar](https://github.com/multiavatar/Multiavatar)
 
@@ -1179,6 +1218,11 @@ sticky: 100
 
 > 支持多种语言的文字识别的 JS 库，能够方便、准确的把图片中的文字解析提取出来（可复制）。  
 > 网站: <http://tesseract.projectnaptha.com/>
+
+[kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js)  
+
+> 一个轻量、无依赖的 JavaScript 库，可驱动用户在整个页面上的注意力。  
+> 网站: <https://driverjs.com/>
 
 ### CSS
 
@@ -1220,6 +1264,60 @@ sticky: 100
 
 > 通过游戏方式在线学习 CSS 选择器知识。  
 > 网站: <https://flukeout.github.io/>
+
+---
+
+## Linux
+
+### 工具
+
+[1Panel-dev / 1Panel](https://github.com/1Panel-dev/1Panel)  
+
+> 现代化、开源的 Linux 服务器运维管理面板。  
+
+### Docker
+
+[composerize](https://www.composerize.com/)  
+
+> 将 Docker 命令行转换为 docker compose 文件。  
+
+[containrrr / watchtower](https://github.com/containrrr/watchtower)
+
+> 监测当前运行的容器的启动镜像是否有更新，是的话自动更新镜像并重新启动。
+
+[Wowu / docker-rollout](https://github.com/Wowu/docker-rollout)  
+
+> 这个工具可以不停机更新 Docker Compose 里面的某个服务。原理是同时新建两个实例，用已更新的实例替换未更新的实例。  
+
+[DIYgod / RSSHub](https://github.com/DIYgod/RSSHub)  
+
+> RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。  
+> 相关项目: [DIYgod / RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)  
+
+[louislam / uptime-kuma](https://github.com/louislam/uptime-kuma)  
+
+> 一款简单易用的站点监控工具。  
+
+[jesseduffield / lazydocker](https://github.com/jesseduffield/lazydocker)  
+
+> 基于终端的一个可视化管理工具。  
+
+[portainer / portainer](https://github.com/portainer/portainer)  
+
+> 一款 Docker 可视化管理工具，可让您轻松构建和管理 Docker、Docker Swarm、Kubernetes 和 Azure ACI 中的容器。  
+
+[netdata / netdata](https://github.com/netdata/netdata)  
+
+> 实时运行性能监控。  
+> 网站: <https://www.netdata.cloud/>
+
+[AnalogJ / scrutiny](https://github.com/AnalogJ/scrutiny)  
+
+> 实时检查硬盘 S.M.A.R.T 健康状态的工具，Docker 安装，自带 Web UI。  
+
+[NginxProxyManager / nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)  
+
+> 一款强大的 Nginx 可视化管理平台。
 
 ---
 
@@ -1303,6 +1401,11 @@ sticky: 100
 [The Algorithms](https://the-algorithms.com/zh_Hans)
 
 > 这个网站收集 GitHub 上面的各种算法实现，按照种类和语言进行分类。
+
+[krahets / hello-algo](https://github.com/krahets/hello-algo)  
+
+> 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。  
+> 网站: <https://hello-algo.com/>
 
 [prakhar1989 / awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
@@ -1497,6 +1600,11 @@ sticky: 100
 
 > 该网站提供各种网络信息查询，比如 IP 地理地址、Whois、DNS 等。  
 
+[Lissy93 / web-check](https://github.com/Lissy93/web-check)  
+
+> 网站公开情报分析。  
+> 网站: <https://web-check.as93.net/>
+
 [anvaka / vs](https://github.com/anvaka/vs)
 
 > 输入一个产品的名字，该工具会根据谷歌的自动搜索提示，生成一张图，上面是经常与该产品进行对比的其他产品。  
@@ -1527,11 +1635,11 @@ sticky: 100
 
 [emojipedia](https://emojipedia.org/)
 
-> 查询各个平台的 Emoji 的高清图片  
+> 查询各个平台的 Emoji 的高清图片。    
 
-[Your First GitHub Commit](https://www.amitmerchant.com/your-first-commit-ever/)
+[Iconbuddy](https://iconbuddy.app/)  
 
-> 这个网站可以找出你的第一个 GitHub 提交。  
+> 一个很好用的图标搜索引擎，收入了10万+的图标，可以定制和下载每个图标。  
 
 [variflight](https://flightadsb.variflight.com/)
 
@@ -1625,10 +1733,6 @@ sticky: 100
 > 类似网站：<https://multiavatar.com/>  
 > 类似网站：<https://vue-color-avatar.vercel.app/>  
 > 类似网站：<https://notion-avatar.vercel.app/zh>
-
-[双拼输入法练习](https://linci.co/sp/)
-
-> 在线练习双拼输入法的网站，漂亮的键位图，支持多种双拼方案。这里还有一个[同类网站](https://api.ihint.me/shuang/)。  
 
 [ExplainShell.com](https://www.explainshell.com/)
 
@@ -1734,36 +1838,15 @@ sticky: 100
 > PDF 在线转换、编辑工具。 
 > PDF 单页页内拆分: <https://www.sejda.com/split-pdf-down-the-middle>
 
-[云短信](https://www.materialtools.com/)
+[PrettyPolly](https://www.prettypolly.app/app)
 
-> 在线短信接收。
-> 类似网站：<https://www.zusms.com/>
-> 类似网站：<http://www.z-sms.com/>
-> 类似网站：<https://jieduanxin.com/>
-
-[临时邮箱](http://24mail.chacuo.net/)
-
-> 临时邮箱、十分钟邮箱。  
-> 类似网站：<https://10minutemail.net/>  
-> 类似网站：<https://10minutemail.com/>  
-> 类似网站：<https://m.kuku.lu/>  
-> 类似网站：<https://www.linshiyouxiang.net/>  
-> 类似网站：<https://mailnesia.com/>  
-> 类似网站：<https://mailsac.com/>  
-> 类似网站：<https://mail7.io/>  
-> 类似网站：<https://www.mohmal.com/en>  
-> 类似网站：<https://temp-mail.io/zh/>  
-> 类似网站：<http://www.yopmail.fr/zh/email-generator.php>  
+> 学习外语时，最好有一个对话环境，可以练习口语，这个 AI 应用就解决了这个问题。它目前提供26种语言（包括中文、日文和韩文），你在网页上选择一种，就可以与 AI 进行口语练习了。  
 
 ### 图片相关
 
 [Aipix](https://aipix.net/?lang=zh)
 
 > 在线图片编辑器，AI 抠图。  
-
-[Holiday Card Maker](https://photoroom.com/holiday-card-maker/)
-
-> 上传肖像照，软件会自动去除背景，生成各种节日照片。  
 
 [Removebg](https://www.remove.bg/zh) 
 
@@ -1775,6 +1858,11 @@ sticky: 100
 [AI Picture Restorer](https://hotpot.ai/restore-picture)
 
 > 去除老照片的破损和折痕。  
+
+[TencentARC / GFPGAN](https://github.com/TencentARC/GFPGAN)  
+
+> 腾讯开源的旧照片 AI 修复。  
+> 网站: <https://replicate.com/tencentarc/gfpgan>
 
 [quququ](https://quququ.cn/) 
 
@@ -1889,6 +1977,10 @@ sticky: 100
 
 > 这个网站可以查看全国铁路的路线图，另有[全世界的铁路地图](https://www.openrailwaymap.org/)。 
 
+[city-roads](https://anvaka.github.io/city-roads/)  
+
+> 为你的城市生成一张手绘地图壁纸。  
+
 ### 设计工具
 
 [Happy Hues](https://www.happyhues.co/palettes/17)
@@ -1897,11 +1989,7 @@ sticky: 100
 
 [中国色](http://zhongguose.com/)
 
-> 中国传统颜色。  
-
-[AI 生成的渐变](https://www.designwithai.com/aigradient)
-
-> 用户指定一个颜色，该网站会自动生成基于该颜色的渐变模式。  
+> 中国传统颜色。    
 
 [Cool Backgrounds](https://coolbackgrounds.io/)
 
@@ -1933,9 +2021,6 @@ sticky: 100
 
 > 《纽约时报》的长篇可视化作品，介绍墨西哥湾洋流的影响。  
 
-## Example
+[波形](https://pudding.cool/2018/02/waveforms/)
 
-[owner](https://github.com/)
-
-> content  
-> 网站: <link>
+> 一篇互动式科普文章，介绍波的基本知识，有大量动画演示。  

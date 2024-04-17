@@ -80,6 +80,10 @@ sticky: 100
 
 > 网页展示地球演化的 46 亿年。  
 
+[中国历朝代视频讲解](https://www.historyline.online/)  
+
+> 一个[开源](https://github.com/liujuntao123/chines-history-video)网站，将 BiliBili 上面综合数据最高的一些中国历史视频，以时间轴的方式呈现。  
+
 [airpano](http://www.airpano.com/)
 
 > 超高清 360° 全景航拍。  
@@ -178,6 +182,10 @@ sticky: 100
 > 类似网站:  [乡音](http://web.xiangyin.mobi/)  
 > 类似网站:  [乡音苑](https://phonemica.net/)
 
+[中国古代历史人物可视化](https://tools.buyixiao.xyz/historical-figure-query)  
+
+> 输入一个古代人物名（共收录52000+人物），就可以显示该人物的社会关系、亲戚关系和生平足迹图。  
+
 [日食列表](https://nadc.china-vo.org/eclipse/)
 
 > 国家天文科学数据中心，日食查询。
@@ -196,11 +204,7 @@ sticky: 100
 
 [水果证件照](https://github.com/jwenjian/ghiblog/issues/114)
 
-> Python 爬虫保存美国农业部网站的水果数据库。  
-
-[Taste Atlas](https://www.tasteatlas.com/search) 
-
-> 全球食物地图。  
+> Python 爬虫保存美国农业部网站的水果数据库。    
 
 [全球海底光缆](https://he.net/3d-map/)
 
@@ -218,6 +222,11 @@ sticky: 100
 
 > 汉字字形汇总，一个老外（汉字叔叔） 20 多年的杰作，让人肃然起敬。  
 > B 站：<https://space.bilibili.com/697174669>
+
+[KanjiVG / kanjivg](https://github.com/KanjiVG/kanjivg)  
+
+> 这个项目提供汉字的 SVG 文件下载，可以显示笔划动画。  
+> 网站: <https://kanjivg.tagaini.net/index.html>
 
 [故宫博物院藏品总目](https://zm-digicol.dpm.org.cn/)
 
@@ -312,13 +321,13 @@ sticky: 100
 > 这个仓库收集了全国200多所高校的校徽，制作成字体图标。  
 > 网站: <http://xiaohui.lovefc.cn/>
 
-[古代地球](https://dinosaurpictures.org/ancient-earth/)  
-
-> 这个网站允许你查看各个地质年代的地球全景图，最早可以回溯到7.5亿年前。  
-
 [默沙东诊疗手册](https://www.msdmanuals.cn/home)  
 
 > 人人可用的医学知识库。  
+
+[伦敦的树](https://apps.london.gov.uk/street-trees/)  
+
+> 伦敦市政府的官方网站，在地图上标出了该市的每一棵树。点击后，显示这棵树的详细数据和谷歌地图照片。  
 
 ### 工具
 
@@ -384,6 +393,10 @@ sticky: 100
 
 > 用户指定 HTTP 请求的发出地和目的地，这个网站会在谷歌地球上显示路由的跳转路径。  
 
+[LC044 / WeChatMsg](https://github.com/LC044/WeChatMsg)  
+
+> 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告。  
+
 ### Github 相关
 
 [pomber / git-history](https://github.com/pomber/git-history)  
@@ -403,6 +416,11 @@ sticky: 100
 
 > 可视化 GitHub 个人信息。  
 > 网站: <https://profile-summary-for-github.com/user/TommyMerlin>
+
+[LHRUN / bubble](https://github.com/LHRUN/bubble)  
+
+> 该仓库收集各种可以放在 GitHub Profile 和 Readme 上面的小组件。  
+> 网站: <https://bubble-awesome-profile.vercel.app/>
 
 [anuraghazra / github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
@@ -502,6 +520,18 @@ sticky: 100
 > 类似网站: <https://checkbox.toys/>  
 > 类似网站: <https://www.bryanbraun.com/checkboxland/>  
 > 类似网站: <https://mrdoob.com/lab/javascript/checkbox_painter/>
+
+[漂亮的网页游戏](https://news.ycombinator.com/item?id=37931804)  
+
+> Hacker News 的一个讨论帖，里面列举许多非常漂亮的网页游戏。  
+> 网站: <https://squigglegolf.com/>
+> 网站: <https://alexanderperrin.com.au/paper/shorttrip/>
+> 网站: <https://sandspiel.club/>
+> 网站: <https://abagames.github.io/crisp-game-lib-games/?cywall>
+> 网站: <https://entanglement.gopherwoodstudios.com/en-GB-index.html>
+> 网站: <https://slowroads.io/>
+> 网站: <https://wayfinder.nfb.ca/>
+> 网站: <https://shotty.itch.io/blitt-td>
 
 ### 其他
 
@@ -1076,6 +1106,10 @@ sticky: 100
 
 ### 学习资源
 
+[DesignSystemHunt](https://www.designsystemhunt.com/)  
+
+> 这个网站收集各种设计系统（design system）。  
+
 [qianguyihao / Web](https://github.com/qianguyihao/Web)
 
 > 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。
@@ -1281,6 +1315,15 @@ sticky: 100
 
 > 将 Docker 命令行转换为 docker compose 文件。  
 
+[louislam / dockge](https://github.com/louislam/dockge)  
+
+> 一个美观、易用的 Docker Compose 管理平台。该项目提供了一个 Web 界面，用于管理 docker-compose.yaml 文件。它开箱即用、界面设计精美，支持交互式编辑 compose.yaml 文件、更新 docker 镜像，以及启动、停止、重启、删除 docker 等操作。  
+> 网站: <https://dockge.kuma.pet/>
+
+[lazydocker](https://github.com/jesseduffield/lazydocker)
+
+> 命令行管理 Docker 服务的一个图形界面工具。  
+
 [containrrr / watchtower](https://github.com/containrrr/watchtower)
 
 > 监测当前运行的容器的启动镜像是否有更新，是的话自动更新镜像并重新启动。
@@ -1318,6 +1361,10 @@ sticky: 100
 [NginxProxyManager / nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)  
 
 > 一款强大的 Nginx 可视化管理平台。
+
+[Frooodle / Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)  
+
+> 本地部署的 PDF 服务，可执行多项操作。  
 
 ---
 
@@ -1526,6 +1573,11 @@ sticky: 100
 > 查找列出系统中的 `node_modules` 文件及文件大小，可选择删除。  
 > 网站: <https://npkill.js.org/>
 
+[Localtunnel](https://github.com/localtunnel/localtunnel)  
+
+> 一个 npm 软件包，为你的本地服务分配一个公网的 URL，使得公网可以访问这个本地服务。  
+> 网站: <https://theboroer.github.io/localtunnel-www/>
+
 ### 测试数据生成 API
 
 [RandomUser](https://randomuser.me/)
@@ -1559,10 +1611,6 @@ sticky: 100
 > 命令行视频下载工具。  
 > 网站: <http://ytdl-org.github.io/youtube-dl/>
 
-[lazydocker](https://github.com/jesseduffield/lazydocker)
-
-> 命令行管理 Docker 服务的一个图形界面工具。  
-
 [cuiocean / ZY-Player](https://github.com/cuiocean/ZY-Player)
 
 > ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞  
@@ -1594,6 +1642,11 @@ sticky: 100
 
 > 批量对本地图片文件进行离线OCR文字识别。  
 
+[lqzhgood / Shmily](https://github.com/lqzhgood/Shmily)  
+
+> 这是一个 (QQ Wechat 短信 通话记录 照片 等) 记录归档的项目。  
+> 网站: <http://lqzhgood.github.io/Shmily>
+
 ### 查询
 
 [WhoisXML API](https://ip-geolocation.whoisxmlapi.com/api)
@@ -1604,6 +1657,15 @@ sticky: 100
 
 > 网站公开情报分析。  
 > 网站: <https://web-check.as93.net/>
+
+[jason5ng32 / MyIP](https://github.com/jason5ng32/MyIP)  
+
+> 一个更好的 IP 工具箱。可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性等。  
+> 网站: <https://ipcheck.ing/>
+
+[browserscan.net](https://www.browserscan.net/)  
+
+> 该网站检测浏览器指纹、IP 地址、WebRTC 泄露，DNS 泄露等信息。  
 
 [anvaka / vs](https://github.com/anvaka/vs)
 
@@ -1636,6 +1698,10 @@ sticky: 100
 [emojipedia](https://emojipedia.org/)
 
 > 查询各个平台的 Emoji 的高清图片。    
+
+[SearchEmoji](https://searchemoji.app/zh-hans)  
+
+> Emoji 搜索引擎，支持30种语言，[代码](https://github.com/rotick/searchemoji)开源。  
 
 [Iconbuddy](https://iconbuddy.app/)  
 
@@ -1733,6 +1799,11 @@ sticky: 100
 > 类似网站：<https://multiavatar.com/>  
 > 类似网站：<https://vue-color-avatar.vercel.app/>  
 > 类似网站：<https://notion-avatar.vercel.app/zh>
+
+[txstc55 / ugly-avatar](https://github.com/txstc55/ugly-avatar)  
+
+> 丑丑头像生成器。  
+> 网站: <https://txstc55.github.io/ugly-avatar/>
 
 [ExplainShell.com](https://www.explainshell.com/)
 
@@ -1842,6 +1913,16 @@ sticky: 100
 
 > 学习外语时，最好有一个对话环境，可以练习口语，这个 AI 应用就解决了这个问题。它目前提供26种语言（包括中文、日文和韩文），你在网页上选择一种，就可以与 AI 进行口语练习了。  
 
+[JasonGrass / rename](https://github.com/JasonGrass/rename)  
+
+> 在线文件批量重命名。  
+> 网站: <https://rename.jgrass.xyz/>
+
+[mat / besticon](https://github.com/mat/besticon)  
+
+> 获取网站 favicon 图标的服务。  
+> 网站: <https://besticon-demo.herokuapp.com/>
+
 ### 图片相关
 
 [Aipix](https://aipix.net/?lang=zh)
@@ -1924,6 +2005,10 @@ sticky: 100
 
 > 表情包搜索网站。
 
+[StockCake](https://stockcake.com/)  
+
+> AI 生成的免费图像素材网站，无限的无版权图片免费下载。  
+
 ### 地图相关
 
 [自然资源部标准地图服务系统](http://bzdt.ch.mnr.gov.cn/)
@@ -1981,6 +2066,23 @@ sticky: 100
 
 > 为你的城市生成一张手绘地图壁纸。  
 
+[中国五级行政区划查询](https://github.com/ruiduobao/gaode_MAP_CUN)
+
+> 该网站可以查询中国34个省份，2800多个县，60多万个行政村历年的行政管辖范围和所属关系变化。  
+> 网站: <https://map.ruiduobao.com/>
+
+[Taste Atlas](https://www.tasteatlas.com/search) 
+
+> 全球食物地图。
+
+[古代地球](https://dinosaurpictures.org/ancient-earth/)  
+
+> 这个网站允许你查看各个地质年代的地球全景图，最早可以回溯到7.5亿年前。  
+
+[世界上最大的纽约市照片](https://www.earthcam.net/projects/empirestatebuilding/gigapixelpanorama/2021/)  
+
+> 360 度的纽约全景照片，达到了800亿像素，支持移动和缩放。  
+
 ### 设计工具
 
 [Happy Hues](https://www.happyhues.co/palettes/17)
@@ -2024,3 +2126,11 @@ sticky: 100
 [波形](https://pudding.cool/2018/02/waveforms/)
 
 > 一篇互动式科普文章，介绍波的基本知识，有大量动画演示。  
+
+[LLM 可视化](https://bbycroft.net/llm)  
+
+> 这个网站提供大型语言模型（LLM）原理讲解，每一步讲解都在右侧配上动画。  
+
+[苏联台风级核潜艇](https://imgur.com/a/xi3P3)  
+
+> 苏联台风级核潜艇，诞生于上个世纪80年代，是世界最大的核潜艇。标题链接收集了100多张历史照片，详细回顾了这个巨无霸的历史。它一共建造了6艘，由于耗资巨大，苏联无力维持，目前已经全部退役。  

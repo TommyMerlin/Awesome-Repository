@@ -1,1 +1,0 @@
-git aa && git com "update" && git push

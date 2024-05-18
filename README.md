@@ -321,6 +321,10 @@ sticky: 100
 > 这个仓库收集了全国200多所高校的校徽，制作成字体图标。  
 > 网站: <http://xiaohui.lovefc.cn/>
 
+[中国大学矢量校徽合集](https://www.urongda.com/)  
+
+> 高校校徽的矢量文件下载，目前收集了100多个校徽。  
+
 [默沙东诊疗手册](https://www.msdmanuals.cn/home)  
 
 > 人人可用的医学知识库。  
@@ -431,6 +435,11 @@ sticky: 100
 
 > 这个网页可以根据 GitHub 主页，生成用户的 GitHub 名片。  
 > <img src="https://scastiel.dev/api/image/TommyMerlin" alt="TommyMerlin’s GitHub image" width="500" height="262" />
+
+[repobeats](https://repobeats.axiom.co/)  
+
+> 展示仓库的各项数据。  
+> ![Alt](https://repobeats.axiom.co/api/embed/e2c3d517b721d7b585725f1390e87e6b059e8d5d.svg "Repobeats analytics image")
 
 [gelstudios / gitfiti](https://github.com/gelstudios/gitfiti)
 
@@ -1366,6 +1375,10 @@ sticky: 100
 
 > 本地部署的 PDF 服务，可执行多项操作。  
 
+[glanceapp / glance/](https://github.com/glanceapp/glance/)  
+
+> 自部署面板，整合多个信息源。  
+
 ---
 
 ## 资源汇总
@@ -1625,6 +1638,10 @@ sticky: 100
 > 翻译小工具。  
 > 类似工具：<https://github.com/ravenxrz/RubberTranslator>
 
+[speauty / anto](https://github.com/speauty/anto)  
+
+> 字幕文件(srt)翻译工具，Windows专用。  
+
 [pavlobu / deskreen](https://github.com/pavlobu/deskreen)
 
 > 将电脑屏幕共享到浏览器中，做第二块屏幕。  
@@ -1725,6 +1742,11 @@ sticky: 100
 
 ### 在线工具
 
+[CorentinTh / it-tools](https://github.com/CorentinTh/it-tools)  
+
+> 好用的开发者在线工具集合。  
+> 网站: <https://it-tools.tech/>
+
 [hakimel / reveal.js](https://github.com/hakimel/reveal.js)
 
 > HTML Presentation 框架。
@@ -1798,7 +1820,7 @@ sticky: 100
 > 开源的卡通头像生成器，可以定制各种头像参数。  
 > 类似网站：<https://multiavatar.com/>  
 > 类似网站：<https://vue-color-avatar.vercel.app/>  
-> 类似网站：<https://notion-avatar.vercel.app/zh>
+> Notion 风格头像：<https://notion-avatar.vercel.app/zh>
 
 [txstc55 / ugly-avatar](https://github.com/txstc55/ugly-avatar)  
 
@@ -1922,6 +1944,10 @@ sticky: 100
 
 > 获取网站 favicon 图标的服务。  
 > 网站: <https://besticon-demo.herokuapp.com/>
+
+[TAAG](https://patorjk.com/software/taag)  
+
+> Text to ASCII Art Generator (TAAG)，输入字符转换成 ASCII 艺术字。 
 
 ### 图片相关
 
